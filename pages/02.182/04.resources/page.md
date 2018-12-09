@@ -1,7 +1,11 @@
 ---
-title: 'Resources'
-published: false
+title: Resources
+published: true
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: false
 ---
+
 ## Reflective Writing  
 *   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
 *   [How Reflecting On Your Work Can Make You A Better Designer](https://medium.com/center-centre-cohort-01/how-reflecting-on-your-work-can-make-you-a-better-designer-5ce2f3886f51)
