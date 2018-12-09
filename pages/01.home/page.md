@@ -1,7 +1,8 @@
 ---
-title: CMPT 363 Course Hub
+title: 'CMPT 363 Course Hub'
 hide_page_title: true
 show_sidebar: false
+hide_git_sync_repo_link: true
 ---
 
 ## [CMPT 363-192](/192/home)
