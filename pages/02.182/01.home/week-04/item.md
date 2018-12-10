@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to explore and communicate possible design solutions?
-[Forms and Methods](https://paulhibbitts.net/182/pdfs/cmpt-363-182-prototyping.pdf#page=5)  
-[Design Scenarios](https://paulhibbitts.net/182/pdfs/cmpt-363-182-prototyping.pdf#page=24)  
-[Sketching and Storyboarding](https://paulhibbitts.net/182/pdfs/cmpt-363-182-prototyping.pdf#page=44)  
+[Forms and Methods](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-prototyping.pdf#page=5)  
+[Design Scenarios](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-prototyping.pdf#page=24)  
+[Sketching and Storyboarding](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-prototyping.pdf#page=44)  
 
 ===
 

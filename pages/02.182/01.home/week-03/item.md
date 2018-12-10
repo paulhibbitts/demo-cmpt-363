@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to make more strategic design decisions?  
-[User Experience Strategy](https://paulhibbitts.net/182/pdfs/cmpt-363-182-strategic-ux-design.pdf#page=5)  
-[Current State and Future State](https://paulhibbitts.net/182/pdfs/cmpt-363-182-strategic-ux-design.pdf#page=31)  
-[Journey Mapping](https://paulhibbitts.net/182/pdfs/cmpt-363-182-strategic-ux-design.pdf#page=56)  
+[User Experience Strategy](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-strategic-ux-design.pdf#page=5)  
+[Current State and Future State](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-strategic-ux-design.pdf#page=31)  
+[Journey Mapping](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-strategic-ux-design.pdf#page=56)  
 
 ===
 

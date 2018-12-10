@@ -7,12 +7,12 @@ hide_git_sync_repo_link: true
 ---
 
 ## What is this course all about?
-[Course Overview](https://paulhibbitts.net/182/pdfs/cmpt-363-182-course-overview.pdf)
+[Course Overview](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-course-overview.pdf)
 
 ## What is usability and user experience design?
-[HCI, UI, IA, IxD, and UX](https://paulhibbitts.net/182/pdfs/cmpt-363-182-introduction-to-ux.pdf#page=4)  
-[Design Thinking](https://paulhibbitts.net/182/pdfs/cmpt-363-182-introduction-to-ux.pdf#page=35)  
-[Usability and UCD](https://paulhibbitts.net/182/pdfs/cmpt-363-182-introduction-to-ux.pdf#page=53)  
+[HCI, UI, IA, IxD, and UX](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-introduction-to-ux.pdf#page=4)  
+[Design Thinking](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-introduction-to-ux.pdf#page=35)  
+[Usability and UCD](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-introduction-to-ux.pdf#page=53)  
 
 ===
 

@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to design products for how people think, learn and feel?
-[Conceptual Models](https://paulhibbitts.net/182/pdfs/cmpt-363-182-interaction-design.pdf#page=5)  
-[Design for Emotion](https://paulhibbitts.net/182/pdfs/cmpt-363-182-interaction-design.pdf#page=87)  
-[Accessible and Inclusive Design](https://paulhibbitts.net/182/pdfs/cmpt-363-182-interaction-design.pdf#page=100)  
+[Conceptual Models](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-interaction-design.pdf#page=5)  
+[Design for Emotion](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-interaction-design.pdf#page=87)  
+[Accessible and Inclusive Design](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-interaction-design.pdf#page=100)  
 
 ===
 

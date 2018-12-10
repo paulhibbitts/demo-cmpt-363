@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## What does a holistic user experience design process look like?
-[Software Development Processes](https://paulhibbitts.net/182/pdfs/cmpt-363-182-the-process-of-ux-design.pdf#page=4)  
-[User Experience Design Processes](https://paulhibbitts.net/182/pdfs/cmpt-363-182-the-process-of-ux-design.pdf#page=24)  
-[Our Design Process (aka Toolkit)](https://paulhibbitts.net/182/pdfs/cmpt-363-182-the-process-of-ux-design.pdf#page=31)
+[Software Development Processes](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-the-process-of-ux-design.pdf#page=4)  
+[User Experience Design Processes](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-the-process-of-ux-design.pdf#page=24)  
+[Our Design Process (aka Toolkit)](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-the-process-of-ux-design.pdf#page=31)
 
 ===
 

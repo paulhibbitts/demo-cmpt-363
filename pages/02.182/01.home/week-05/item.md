@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to plan, conduct, and summarize usability tests?  
-[Testing Methods](https://paulhibbitts.net/182/pdfs/cmpt-363-182-usability-testing.pdf#page=5)  
-[Conducting Tests](https://paulhibbitts.net/182/pdfs/cmpt-363-182-usability-testing.pdf#page=31)  
-[Analysis and Reporting](https://paulhibbitts.net/182/pdfs/cmpt-363-182-usability-testing.pdf#page=101)  
+[Testing Methods](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-usability-testing.pdf#page=5)  
+[Conducting Tests](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-usability-testing.pdf#page=31)  
+[Analysis and Reporting](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-usability-testing.pdf#page=101)  
 
 ===
 

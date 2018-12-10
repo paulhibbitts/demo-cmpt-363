@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to design for mobile and multi-device usage?
-['Mobile' Design Principles](https://paulhibbitts.net/182/pdfs/cmpt-363-182-mobile-and-multidevice-design.pdf#page=6)  
-[Touch Interaction Design](https://paulhibbitts.net/182/pdfs/cmpt-363-182-mobile-and-multidevice-design.pdf#page=37)  
-[Responsive Web Design (RWD)](https://paulhibbitts.net/182/pdfs/cmpt-363-182-mobile-and-multidevice-design.pdf#page=55)  
+['Mobile' Design Principles](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-mobile-and-multidevice-design.pdf#page=6)  
+[Touch Interaction Design](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-mobile-and-multidevice-design.pdf#page=37)  
+[Responsive Web Design (RWD)](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-mobile-and-multidevice-design.pdf#page=55)  
 
 ===
 

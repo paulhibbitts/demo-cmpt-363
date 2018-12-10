@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to conduct a usability inspection?   
-[Cognitive Walkthroughs](https://paulhibbitts.net/182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=6)  
-[Conducting Heuristic Evaluations](https://paulhibbitts.net/182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=17)  
-[Nielsen’s Heuristics](https://paulhibbitts.net/182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=38)  
+[Cognitive Walkthroughs](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=6)  
+[Conducting Heuristic Evaluations](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=17)  
+[Nielsen’s Heuristics](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=38)  
 
 ===
 

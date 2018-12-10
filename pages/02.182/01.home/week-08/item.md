@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to understand and communicate people's needs and behaviours?
-[Needsfinding](https://paulhibbitts.net/182/pdfs/cmpt-363-182-user-research.pdf#page=8)  
-[User Models](https://paulhibbitts.net/182/pdfs/cmpt-363-182-user-research.pdf#page=44)  
-[Stories of Usage](https://paulhibbitts.net/182/pdfs/cmpt-363-182-user-research.pdf#page=65)  
+[Needsfinding](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-research.pdf#page=8)  
+[User Models](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-research.pdf#page=44)  
+[Stories of Usage](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-research.pdf#page=65)  
 
 ===
 
