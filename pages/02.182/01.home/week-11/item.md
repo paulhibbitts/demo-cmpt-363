@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 [Jun 6th Class One-minute Summaries](https://canvas.sfu.ca/courses/38847/assignments/292815)
 
 ### Presented Slides  
-[plugin:page-inject](/182/all-slides/week-01)
+[plugin:page-inject](/182/all-slides/week-11)
 
 ### Supplemental Materials  
 [Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=QckIzHC99Xc)  
