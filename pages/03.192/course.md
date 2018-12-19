@@ -1,6 +1,5 @@
 ---
 title: CMPT 363-192
-redirect: '/192/home'
 visible: false
 ---
 
