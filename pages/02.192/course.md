@@ -1,5 +1,5 @@
 ---
-title: CMPT 363-192
+title: 'CMPT 363-192'
 visible: false
 ---
 
