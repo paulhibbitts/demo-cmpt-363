@@ -4,4 +4,4 @@ visible: false
 hide_from_course_list: false
 ---
 
-The Course Hub for CMPT-363 User Interface Design, Summer 2018
+The Course Hub for CMPT-363 User Interface Design, archived from the Summer of 2018
