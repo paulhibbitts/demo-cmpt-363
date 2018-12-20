@@ -5,4 +5,4 @@ show_sidebar: false
 hide_git_sync_repo_link: true
 ---
 
-This site contains current and past offerings of CMPT-363 User Interface Design.
+This site contains future, current and past offerings of CMPT-363 User Interface Design.
