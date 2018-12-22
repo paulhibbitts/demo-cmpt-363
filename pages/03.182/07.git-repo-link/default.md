@@ -3,9 +3,9 @@ title: View Content Repository
 published: true
 hide_page_title: false
 hide_git_sync_repo_link: false
+redirect: 'https://github.com/paulhibbitts/test-cmpt-363'
 menu_icon: github
 menu_class: 'newwindow external-link'
-redirect: 'https://github.com/paulhibbitts/test-cmpt-363'
 ---
 
 ## [:fa-calendar-o:Week 1 (May 9 - 15)](/182/home/week-01)
