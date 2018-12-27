@@ -1,6 +1,7 @@
 ---
 title: Home
 published: true
+visible: false
 metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
