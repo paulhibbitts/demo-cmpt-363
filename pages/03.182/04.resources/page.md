@@ -40,6 +40,7 @@ hide_git_sync_repo_link: false
 *   [Methods | Usability.gov](http://www.usability.gov/how-to-and-tools/methods/)
 *   [Methods | Usability Body of Knowledge](http://www.usabilitybok.org/methods)
 *   [Usability Planner](http://usabilityplanner.org/#home)
+*   [UX Laws (by Jon Yablonski)](https://lawsofux.com/)
 *   [UX Techniques (by UX Mastery)](http://uxmastery.com/resources/techniques)
 
 ## UX Article Collections  
