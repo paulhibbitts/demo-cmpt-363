@@ -27,7 +27,6 @@ hide_git_sync_repo_link: false
 *   [Templates & Downloadable Documents | Usability.gov](http://www.usability.gov/how-to-and-tools/resources/templates.html)
 *   [cxpartners | Resources](http://www.cxpartners.co.uk/ux-resources/)
 *   [The PM Toolkit](http://thepmtoolkit.com/)
-*   [UX Project Checklist](http://uxchecklist.github.io/)
 
 ## UX Design Checklists  
 *   [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)  
