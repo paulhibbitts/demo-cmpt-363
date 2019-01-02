@@ -7,6 +7,7 @@ hide_git_sync_repo_link: true
 ---
 
 ## What is the practice of strategic interaction design?
+[UX Strategy](#)  
 [5 Dimensions of IxD](#)  
 [Design for Emotion](#)  
 [Accessible and Inclusive Design](#)  
