@@ -33,8 +33,8 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](/192/all-readings/week-04)
 
 ### Supplemental Readings  
-[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/accessibility)  
-[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/cognitive-psychology)  
-[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/emotional-design)  
-[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/interaction-design)  
-[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/task-flows)  
+[plugin:content-inject](/192/ux-techniques-guide/what-is-the-practice-of-strategic-interaction-design/accessibility)  
+[plugin:content-inject](/192/ux-techniques-guide/what-is-the-practice-of-strategic-interaction-design/cognitive-psychology)  
+[plugin:content-inject](/192/ux-techniques-guide/what-is-the-practice-of-strategic-interaction-design/emotional-design)  
+[plugin:content-inject](/192/ux-techniques-guide/what-is-the-practice-of-strategic-interaction-design/interaction-design)  
+[plugin:content-inject](/192/ux-techniques-guide/what-is-the-practice-of-strategic-interaction-design/task-flows)  
