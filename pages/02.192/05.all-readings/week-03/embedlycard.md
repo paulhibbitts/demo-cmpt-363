@@ -1,8 +1,8 @@
 ---
-title: 'Week 3 - A Lean UX Iteration on Dropbox Photos'
-embedly_card_title: 'A Lean UX Iteration on Dropbox Photos'
+title: 'Week 5 - An Overview of Expert Heuristic Evaluations'
+embedly_card_title: 'An Overview of Expert Heuristic Evaluations'
 embedly_card_alignment: left
-embedly_card_url: 'https://medium.com/bridge-collection/a-lean-ux-iteration-on-dropbox-photos-edfa7b245c27#.fdtsczbnj'
+embedly_card_url: 'https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php'
 published: true
 visible: true
 cache_enable: false

@@ -1,8 +1,8 @@
 ---
-title: 'Week 6 - We Think Therefore It Is – Conceptual Modelling for Mobile Applications'
-embedly_card_title: 'We Think Therefore It Is – Conceptual Modelling for Mobile Applications'
+title: 'Week 4 - Accessibility for Visual Design'
+embedly_card_title: 'Accessibility for Visual Design'
 embedly_card_alignment: left
-embedly_card_url: 'https://www.interaction-design.org/literature/article/we-think-therefore-it-is-conceptual-modelling-for-mobile-applications'
+embedly_card_url: 'http://www.uxbooth.com/articles/accessibility-visual-design/'
 published: true
 visible: true
 cache_enable: false

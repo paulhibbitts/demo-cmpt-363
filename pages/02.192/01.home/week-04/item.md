@@ -1,35 +1,40 @@
 ---
 title: 'Week 4 (May 29 - Jun 4)'
 published: true
-date: '30-05-2018 00:00'
+date: '29-05-2018 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
-## What are the essentials of effective visual communication?  
-[Typography](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-visual-design-essentials.pdf#page=7)  
-[Grouping, Visual Hierarchy and Grids](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-visual-design-essentials.pdf#page=24)  
-[Visual Design Principles](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-visual-design-essentials.pdf#page=36)  
+## What is the practice of strategic interaction design?
+[5 Dimensions of IxD](#)  
+[Design for Emotion](#)  
+[Accessible and Inclusive Design](#)  
+[HCI Laws for IxD](#)  
 
 ===
 
-## **What are the essentials of effective visual communication?**
+## **What is the practice of strategic interaction design?**
 
 ### Summaries and Questions  
-[Jul 18th Class One-minute Summaries](https://canvas.sfu.ca)
+[Jul 11th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-04)
 
-### Assignments
-[Visual Re-design](#)  
+### Handouts
+[10 Simple Things Writers Can Do To Improve Web Accessibility](http://www.seamlesscms.com/Insights/Content-Accessibility)  
+
+### Supplemental Materials  
+[Microsoft Research's Bill Buxton on Natural User Interfaces](https://www.youtube.com/watch?v=NcdrfacG_y4)  
+<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/NcdrfacG_y4" frameborder="0" allowfullscreen></iframe></div>
 
 ### Required Reading  
 [plugin:page-inject](/192/all-readings/week-04)
 
 ### Supplemental Readings  
-[plugin:content-inject](/192/ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/grids)  
-[plugin:content-inject](/192/ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/hierarchy)  
-[plugin:content-inject](/192/ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/icons)  
-[plugin:content-inject](/192/ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/layout)  
-[plugin:content-inject](/192/ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/typography)  
+[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/accessibility)  
+[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/cognitive-psychology)  
+[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/emotional-design)  
+[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/interaction-design)  
+[plugin:content-inject](/192/ux-techniques-guide/what is the practice of interaction design/task-flows)  
