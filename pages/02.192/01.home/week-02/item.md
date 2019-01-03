@@ -16,7 +16,7 @@ hide_git_sync_repo_link: true
 ## **What does a holistic user experience design process look like?**
 
 ### Summaries and Questions  
-[May 16th Class One-minute Summaries](https://canvas.sfu.ca)
+[May 16th Class One-minute Summaries](https://canvas.sfu.ca/courses/44038/assignments/347277)
 
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-02)
