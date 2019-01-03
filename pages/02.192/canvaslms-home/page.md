@@ -8,7 +8,7 @@ page-inject:
 hide_git_sync_repo_link: true
 ---
 
-[plugin:content-inject](/home/_important-reminders)
+[plugin:content-inject](/192/home/_important-reminders)
 
 [plugin:page-inject](/192/home/_class-preparations)
 
