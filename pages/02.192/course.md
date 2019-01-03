@@ -10,5 +10,3 @@ page-inject:
 ---
 
 [plugin:content-inject](/192/home/_important-reminders)
-
-[plugin:page-inject](/192/home/_class-preparations)
