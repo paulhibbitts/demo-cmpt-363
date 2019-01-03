@@ -16,7 +16,7 @@ hide_git_sync_repo_link: true
 ## **How to understand and communicate people's needs and behaviours?**
 
 ### Summaries and Questions  
-[Jun 27 Class One-minute Summaries](https://canvas.sfu.ca)
+[Jun 26th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-08)

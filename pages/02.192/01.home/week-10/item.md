@@ -16,7 +16,7 @@ hide_git_sync_repo_link: true
 ## **How to explore and communicate possible design solutions?**
 
 ### Summaries and Questions  
-[May 30th Class One-minute Summaries](https://canvas.sfu.ca)
+[Jul 10th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-10)

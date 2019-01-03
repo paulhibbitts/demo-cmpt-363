@@ -18,7 +18,7 @@ hide_git_sync_repo_link: true
 ## **What is the practice of strategic interaction design?**
 
 ### Summaries and Questions  
-[Jul 11th Class One-minute Summaries](https://canvas.sfu.ca)
+[May 29th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-04)

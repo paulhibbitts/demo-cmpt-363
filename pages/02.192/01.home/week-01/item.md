@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 ## **What is usability and user experience design?**
 
 ### Summaries and Questions  
-[May 9th Class One-minute Summaries](https://canvas.sfu.ca/courses/44038/assignments/347269)
+[May 8th Class One-minute Summaries](https://canvas.sfu.ca/courses/44038/assignments/347269)
 
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-01-1)  

@@ -16,7 +16,7 @@ hide_git_sync_repo_link: true
 ## **How to bridge the gap between the problem space and design space?**
 
 ### Summaries and Questions  
-[Jul 11th Class One-minute Summaries](https://canvas.sfu.ca)
+[Jun 5th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-05)

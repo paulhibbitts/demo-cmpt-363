@@ -16,7 +16,7 @@ hide_git_sync_repo_link: true
 ## **How to design for mobile and multi-device usage?**
 
 ### Summaries and Questions  
-[Jun 20th Class One-minute Summaries](https://canvas.sfu.ca)
+[Jun 19th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-07)

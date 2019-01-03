@@ -16,7 +16,7 @@ hide_git_sync_repo_link: true
 ## **What are the essentials of effective visual communication?**
 
 ### Summaries and Questions  
-[Jul 18th Class One-minute Summaries](https://canvas.sfu.ca)
+[Jun 12th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-06)
