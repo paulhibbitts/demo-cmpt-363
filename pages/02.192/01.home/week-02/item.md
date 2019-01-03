@@ -25,10 +25,10 @@ hide_git_sync_repo_link: true
 ![CMPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
 
 ### Handouts
-[Product Reaction Cards](https://canvas.sfu.ca)  
+[Product Reaction Cards](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Product%20Reaction%20Cards)  
 
 ### Assignments
-[Course Reflection Log](https://canvas.sfu.ca)  
+[Course Reflection Log](https://canvas.sfu.ca/courses/44038/assignments/347280)  
 
 ### Recommended Reading  
 [plugin:page-inject](/192/all-readings/week-02)

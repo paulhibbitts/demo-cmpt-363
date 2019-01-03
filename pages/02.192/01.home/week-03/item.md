@@ -26,8 +26,8 @@ hide_git_sync_repo_link: true
 <div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA" frameborder="0" allowfullscreen></iframe></div>
 
 ### Assignments
-[Usability Inspection](https://canvas.sfu.ca)   
-[Usability Inspection Report Template](https://canvas.sfu.ca)
+[Usability Inspection](https://canvas.sfu.ca/courses/44038/assignments/347284)   
+[Usability Inspection Report Template](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Usability%20Inspection%20Report%20Template)
 
 ### Required Reading  
 [plugin:page-inject](/192/all-readings/week-03)
