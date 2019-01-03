@@ -8,19 +8,19 @@ hide_git_sync_repo_link: false
 ---
 
 ## :fa-calendar-o:Week 1 (May 8 - 14)
-**[What is usability and user experience design?](https://canvas.sfu.ca)**  
+**[What is usability and user experience design?](https://canvas.sfu.ca/courses/44038/modules/items/1096965)**  
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-01-1?template=partials/pdflinkonly)
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-01-2?template=partials/pdflinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-01?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 2 (May 15 - 21)
-**[What does a holistic user experience design process look like?](https://canvas.sfu.ca)**  
+**[What does a holistic user experience design process look like?](https://canvas.sfu.ca/courses/44038/modules/items/1096966)**  
 :fa-pencil:[Course Reflection Log](https://canvas.sfu.ca) due Aug 3rd   
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-02?template=partials/pdflinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-02?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 3 (May 22 - 28)
-**How to conduct a user interface inspection?**  
+**[How to conduct a user interface inspection?](https://canvas.sfu.ca/courses/44038/modules/items/1096967)**  
 :fa-pencil:[Usability Inspection](#) assignment due Jun 11th  
 :fa-file:[Usability Inspection Report Template](#)  
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-03?template=partials/pdflinkonly)
@@ -45,12 +45,12 @@ hide_git_sync_repo_link: false
 :fa-users: In-class office hours (tentative)  
 
 ## :fa-calendar-o:Week 7 (Jun 19 - 25)
-**[How to design for mobile and multi-device usage?](https://canvas.sfu.ca)**  
+**[How to design for mobile and multi-device usage?](https://canvas.sfu.ca/courses/44038/modules/items/1096971)**  
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-07?template=partials/pdflinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-07?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 8 (Jun 26 - Jul 2)
-**[How to understand and communicate people's needs and behaviors?](https://canvas.sfu.ca)**   
+**How to understand and communicate people's needs and behaviors?**   
 :fa-pencil:[Project User Research Report](https://canvas.sfu.ca) due Jul 17th  
 :fa-file-o:[Team Member Evaluation](https://canvas.sfu.ca) for  assignment #4 due in class Jul 18th  
 :fa-folder:[Informed Consent Materials](https://canvas.sfu.ca)  
@@ -59,16 +59,16 @@ hide_git_sync_repo_link: false
 :fa-users: In-class office hours (tentative)  
 
 ## :fa-calendar-o:Week 9 (Jul 3 - 9)
-**[Instructor User Research Plan Meetings](https://canvas.sfu.ca)**  
+**Instructor User Research Plan Meetings)**  
 TASC 1 8003
 
 ## :fa-calendar-o:Week 10 (Jul 10 - 16)  
-**[How to design products for how people think, learn and feel?](https://canvas.sfu.ca)**  
+**How to design products for how people think, learn and feel?**  
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-10?template=partials/pdflinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-10?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 11 (Jul 17 - 23)
-**[What are the essentials of effective visual communication?](https://canvas.sfu.ca)**   
+**What are the essentials of effective visual communication?**   
 :fa-pencil:[Project Usability Tested Mockups](https://canvas.sfu.ca) due Jul 31st    
 :fa-file-o:[Team Member Evaluation](https://canvas.sfu.ca) for assignment #5 due in class Aug 1st  
 :fa-folder:[Informed Consent Materials](https://canvas.sfu.ca)  
@@ -76,7 +76,7 @@ TASC 1 8003
 :fa-book:[plugin:page-inject](/192/all-readings/week-11?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 12 (Jul 24 - 30)
-**[Instructor Design Critique Meetings](https://canvas.sfu.ca)**  
+**Instructor Design Critique Meetings**  
 TASC 1 8003  
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
 
