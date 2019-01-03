@@ -2,7 +2,7 @@
 title: 'Week 3 (May 22 - 28)'
 published: true
 date: '22-05-2018 00:00'
-hide_from_post_list: false
+hide_from_post_list: true
 hide_git_sync_repo_link: true
 ---
 

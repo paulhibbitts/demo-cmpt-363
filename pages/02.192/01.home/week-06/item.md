@@ -1,6 +1,6 @@
 ---
 title: 'Week 6 (Jun 12 - 18)'
-published: true
+published: false
 date: '12-06-2018 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true

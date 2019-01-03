@@ -1,6 +1,6 @@
 ---
 title: 'Week 11 (Jul 17 - 23)'
-published: true
+published: false
 date: '18-07-2018 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true

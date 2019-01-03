@@ -1,6 +1,6 @@
 ---
 title: 'Week 9 (Jul 3 - 9)'
-published: true
+published: false
 date: '04-07-2018 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
