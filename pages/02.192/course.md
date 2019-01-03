@@ -5,4 +5,10 @@ hide_from_course_list: false
 course_home: home
 published: true
 visible: false
+page-inject:
+    processed_content: false
 ---
+
+[plugin:content-inject](/192/home/_important-reminders)
+
+[plugin:page-inject](/192/home/_class-preparations)
