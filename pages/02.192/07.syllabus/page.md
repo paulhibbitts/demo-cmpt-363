@@ -3,8 +3,6 @@ title: Syllabus
 published: true
 visible: true
 show_sidebar: false
-hide_page_title: false
-hide_git_sync_repo_link: false
 ---
 
 ##### Course Description
