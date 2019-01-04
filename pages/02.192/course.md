@@ -9,4 +9,4 @@ page-inject:
     processed_content: false
 ---
 
-[plugin:content-inject](/192/home/_important-reminders)
+[plugin:content-inject](/192/home/_class-preparations)
