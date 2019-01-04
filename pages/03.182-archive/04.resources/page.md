@@ -1,12 +1,9 @@
 ---
 title: Resources
 published: true
-hide_page_title: false
 show_sidebar: true
-hide_git_sync_repo_link: false
 ---
-
-## Reflective Writings  
+## Reflective Writing  
 *   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
 *   [How Reflecting On Your Work Can Make You A Better Designer](https://medium.com/center-centre-cohort-01/how-reflecting-on-your-work-can-make-you-a-better-designer-5ce2f3886f51)
 *   [Online Guide to Reflective Writing](https://nile.northampton.ac.uk/bbcswebdav/pid-1244383-dt-content-rid-3278540_1/courses/Centre-for-Achievement-and-Performance/Skills/Reflective%20Writing/Reflective%20Writing%20-%20Feb%202017.pdf)
@@ -27,6 +24,7 @@ hide_git_sync_repo_link: false
 *   [Templates & Downloadable Documents | Usability.gov](http://www.usability.gov/how-to-and-tools/resources/templates.html)
 *   [cxpartners | Resources](http://www.cxpartners.co.uk/ux-resources/)
 *   [The PM Toolkit](http://thepmtoolkit.com/)
+*   [UX Project Checklist](http://uxchecklist.github.io/)
 
 ## UX Design Checklists  
 *   [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)  
@@ -39,7 +37,6 @@ hide_git_sync_repo_link: false
 *   [Methods | Usability.gov](http://www.usability.gov/how-to-and-tools/methods/)
 *   [Methods | Usability Body of Knowledge](http://www.usabilitybok.org/methods)
 *   [Usability Planner](http://usabilityplanner.org/#home)
-*   [UX Laws (by Jon Yablonski)](https://lawsofux.com/)
 *   [UX Techniques (by UX Mastery)](http://uxmastery.com/resources/techniques)
 
 ## UX Article Collections  
