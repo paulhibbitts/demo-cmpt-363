@@ -1,5 +1,5 @@
 ---
-title: 'Contact Paul or Hamid'
+title: 'Contact Paul'
 show_sidebar: false
 hide_page_title: false
 hide_git_sync_repo_link: true
@@ -20,7 +20,7 @@ visible: false
   <span style="color:grey"><i class="fa fa-twitter" aria-hidden="true"></i></span> <a href="https://twitter.com/hibbittsdesign">@hibbittsdesign</a><br>
   <br>In-person office hours:<br>Wednesdays 2:00-3:30pm TASC 1 9409<br><br>
   Virtual office hours chat:<br>Mondays 12:00-1:30pm<br>Fridays 12:00-1:00pm<br><br>     
-  Hamid Homapour<br><span style="color:grey"><i class="fa fa-envelope" aria-hidden="true"></i></span> <a href='mail&#116;o&#58;&#104;h&#111;m%6&#49;%70ou&#64;&#115;&#102;u&#46;c%61'>hhomapou&#64;sf&#117;&#46;ca</a><br>
+  Teaching Assistant<br><span style="color:grey"><i class="fa fa-envelope" aria-hidden="true"></i></span>TBD<br>
   </div>
 </div>
 
