@@ -58,7 +58,7 @@ hide_git_sync_repo_link: false
 
 ## :fa-calendar-o:Week 9 (Jul 3 - 9)
 **Instructor User Research Plan Meetings**  
-TASC 1 8003
+TBD
 
 ## :fa-calendar-o:Week 10 (Jul 10 - 16)
 **How to explore and communicate possible design solutions?**  
@@ -75,7 +75,7 @@ TASC 1 8003
 
 ## :fa-calendar-o:Week 12 (Jul 24 - 30)
 **Instructor Design Critique Meetings**  
-TASC 1 8003  
+TBD  
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
 
 ## [:fa-calendar-o:Week 13 (Aug 1)](/192/home/week-13)

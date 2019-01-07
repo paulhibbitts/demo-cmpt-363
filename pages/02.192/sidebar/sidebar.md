@@ -11,11 +11,10 @@ Paul Hibbitts
 <span style="color:grey">:fa-twitter:</span>[@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 
 In-person office hours:  
-Wednesdays 2:30-4:00pm TASC 1 9409  
+TBD
 
 Virtual office hours chat:  
-Mondays 12:00-1:30pm   
-Fridays 12:00-1:00pm
+TBD
 
 ## LMS and Course Tools
 <span style="color:grey">:fa-calendar:</span>[Canvas Calendar](https://canvas.sfu.ca)  
