@@ -8,3 +8,5 @@ visible: false
 ---
 
 This site contains future, current and past offerings of CMPT-363 User Interface Design.
+
+[embedly url="https://demo.hibbittsdesign.org/cmpt-363-hub/192/slides/placeholder"]
