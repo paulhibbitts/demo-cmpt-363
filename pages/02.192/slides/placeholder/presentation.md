@@ -143,8 +143,6 @@ User interface design is the process of supporting the *goals* of the user, idea
 
 [youtube]https://www.youtube.com/watch?v=TbEfjaE94sU[/youtube]
 
-###### [https://www.youtube.com/watch?v=TbEfjaE94sU](https://www.youtube.com/watch?v=TbEfjaE94sU)
-
 ---
 
 # Next Up,<br>What is Interaction Design (IxD)?
@@ -203,15 +201,11 @@ What are some examples of good or bad user experiences?
 
 [youtube]https://www.youtube.com/watch?v=2lXh2n0aPyw[/youtube]
 
-###### [https://www.youtube.com/watch?v=2lXh2n0aPyw](https://www.youtube.com/watch?v=2lXh2n0aPyw)
-
 ---
 
 [.text: alignment(center)]
 
 [youtube]https://www.youtube.com/watch?v=Xo0CiJjTGJE[/youtube]
-
-###### [https://www.youtube.com/watch?v=Xo0CiJjTGJE](https://www.youtube.com/watch?v=Xo0CiJjTGJE)
 
 ---
 
@@ -292,8 +286,6 @@ possibilities of technology, and the requirements for business success.”
 
 [youtube]https://www.youtube.com/watch?v=nPlvBPtxEl4[/youtube]
 
-##### [https://www.youtube.com/watch?v=nPlvBPtxEl4](https://www.youtube.com/watch?v=nPlvBPtxEl4)
-
 ---
 
 [.background-color: #FFFFFF]
@@ -344,11 +336,7 @@ A technique to help reveal cause and effect, through asking “Why?” often in 
 
 ---
 
-[.text: alignment(center),#FFFFFF]
-
 [youtube]https://www.youtube.com/watch?v=zvkYFZUsBnw[/youtube]
-
-[https://www.youtube.com/watch?v=zvkYFZUsBnw](https://www.youtube.com/watch?v=zvkYFZUsBnw)
 
 ---
 
@@ -356,11 +344,7 @@ A technique to help reveal cause and effect, through asking “Why?” often in 
 
 ---
 
-[.text: alignment(center),#FFFFFF]
-
 [youtube]https://www.youtube.com/watch?v=0fKBhvDjuy0[/youtube]
-
-[https://www.youtube.com/watch?v=0fKBhvDjuy0](https://www.youtube.com/watch?v=0fKBhvDjuy0)
 
 ---
 
