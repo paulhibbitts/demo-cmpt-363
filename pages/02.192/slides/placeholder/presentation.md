@@ -1,15 +1,17 @@
 ---
-title: 'Placeholder'
+title: Placeholder
 textsize:
-    scale: '1.8'
-    base: 36
+    scale: '1.125'
 style:
     header-font-family: GillSans
     block-font-family: GillSans
     justify-content: center
 horizontal: true
+shortcodes: true
 presentation:
+    content: none
     parser: DecksetParser
+    styles: none
 ---
 
 # Introduction to UX
