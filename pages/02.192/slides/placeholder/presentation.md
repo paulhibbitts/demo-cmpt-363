@@ -164,19 +164,11 @@ Founded by the [Interaction Design Association](http://www.ixda.org/) (IxDA) in 
 
 ---
 
-[.text: alignment(center)]
-
-![inline](videos/PowerChair_Football.mp4)
-
-###### [https://vimeo.com/240767296](https://vimeo.com/240137191)
+<div style="padding:40% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/240137191" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ---
 
-[.text: alignment(center)]
-
-![inline](videos/New_Nordic_by_SAS.mp4)
-
-###### [https://vimeo.com/240767296](https://vimeo.com/240767296)
+<div style="padding:40% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/240767296" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ---
 
