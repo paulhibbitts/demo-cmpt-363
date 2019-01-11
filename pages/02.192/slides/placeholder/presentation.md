@@ -2,17 +2,14 @@
 title: Placeholder
 textsize:
     scale: '1.125'
-    base: 36
 style:
-    header-font-family: Arial
-    block-font-family: Arial
+    header-font-family: 'GillSans,Arial'
+    block-font-family: 'GillSans,Arial'
     justify-content: center
 horizontal: true
 shortcodes: true
 presentation:
-    content: none
     parser: DecksetParser
-    styles: none
 ---
 
 # Introduction to UX
