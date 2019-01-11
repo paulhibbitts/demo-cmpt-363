@@ -2,7 +2,7 @@
 title: Placeholder
 textsize:
     scale: '1.125'
-    base: 16
+    base: 36
 style:
     header-font-family: GillSans
     block-font-family: GillSans
