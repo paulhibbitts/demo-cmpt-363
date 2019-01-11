@@ -4,15 +4,15 @@ textsize:
     scale: '1.125'
     base: 36
 style:
-    header-font-family: GillSans
-    block-font-family: GillSans
+    header-font-family: Arial
+    block-font-family: Arial
     justify-content: center
 horizontal: true
 shortcodes: true
 presentation:
-    content: Content
+    content: none
     parser: DecksetParser
-    styles: Styles
+    styles: none
 ---
 
 # Introduction to UX
@@ -31,6 +31,7 @@ presentation:
 ---
 
 [.background-color: #618B25]
+[.text: #FFFFFF]
 
 # Topics to Explore  
 
@@ -58,6 +59,10 @@ A field of study which strives to make interactions between people and computers
 
 ---
 
+![fit](https://upload.wikimedia.org/wikipedia/commons/3/37/Grace_Hopper_and_UNIVAC.jpg)
+
+---
+
 [.background-color: #FFFFFF]
 
 ![fit](https://upload.wikimedia.org/wikipedia/commons/c/cc/SRI_Computer_Mouse.jpg)  
@@ -75,6 +80,8 @@ A field of study which strives to make interactions between people and computers
 ![fit](https://foundationsofhci.files.wordpress.com/2012/10/figure_1.png)
 
 ---
+
+
 
 # Contemporary HCI Issues (Yvonne Rogers)
 
@@ -137,7 +144,7 @@ User interface design is the process of supporting the *goals* of the user, idea
 
 [.text: alignment(center)]
 
-[plugin:youtube](https://www.youtube.com/watch?v=BK8guP9ov2U)
+[youtube]https://www.youtube.com/watch?v=TbEfjaE94sU[/youtube]
 
 ###### [https://www.youtube.com/watch?v=TbEfjaE94sU](https://www.youtube.com/watch?v=TbEfjaE94sU)
 
@@ -170,7 +177,7 @@ Founded by the [Interaction Design Association](http://www.ixda.org/) (IxDA) in 
 
 [.text: alignment(center)]
 
-![inline](videos/New Nordic by SAS.mp4)
+![inline](videos/New_Nordic_by_SAS.mp4)
 
 ###### [https://vimeo.com/240767296](https://vimeo.com/240767296)
 
@@ -194,7 +201,6 @@ Founded by the [Interaction Design Association](http://www.ixda.org/) (IxDA) in 
 ---
 
 [.background-color: #2d6e92]
-[.header: alignment(left),#FFFFFF]
 [.text: #FFFFFF]
 
 # Activity: User Experience
@@ -206,7 +212,7 @@ What are some examples of good or bad user experiences?
 
 [.text: alignment(center)]
 
-![inline](https://www.youtube.com/watch?v=2lXh2n0aPyw)
+[youtube]https://www.youtube.com/watch?v=2lXh2n0aPyw[/youtube]
 
 ###### [https://www.youtube.com/watch?v=2lXh2n0aPyw](https://www.youtube.com/watch?v=2lXh2n0aPyw)
 
@@ -214,7 +220,7 @@ What are some examples of good or bad user experiences?
 
 [.text: alignment(center)]
 
-![inline](https://www.youtube.com/watch?v=Xo0CiJjTGJE)
+[youtube]https://www.youtube.com/watch?v=Xo0CiJjTGJE[/youtube]
 
 ###### [https://www.youtube.com/watch?v=Xo0CiJjTGJE](https://www.youtube.com/watch?v=Xo0CiJjTGJE)
 
@@ -222,11 +228,11 @@ What are some examples of good or bad user experiences?
 
 [.background-color: #FFFFFF]
 
-![fit](http://www.kickerstudio.com/wp-content/uploads/2013/03/ux_disciplines_rev.gif)
+![fit](https://cdn-images-1.medium.com/max/1600/1*Clq8A-DdOYaWn-VrSGBmiQ.jpeg)
 
 ---
 
-[.text: line-height(.8)]
+
 
 # Time for Questions & Discussion
 
@@ -243,15 +249,12 @@ What are some examples of good or bad user experiences?
 ---
 
 [.background-color: #611036]
-[.header: alignment(left),#FFFFFF]
 
 # What is user experience design?
 
 ### Design Thinking
 
 ---
-
-[.text: line-height(.8)]
 
 # What is Design Thinking?
 
@@ -273,8 +276,6 @@ possibilities of technology, and the requirements for business success.”
 
 ---
 
-[.text: line-height(.8)]
-
 # The Three Goals of Design Thinking
 
 - To be desirable by people
@@ -289,8 +290,6 @@ possibilities of technology, and the requirements for business success.”
 
 ---
 
-[.text: line-height(.8)]
-
 # Elements of Design Thinking
 
 - Empathize
@@ -302,7 +301,7 @@ possibilities of technology, and the requirements for business success.”
 
 [.text: alignment(center)]
 
-![inline](https://www.youtube.com/watch?v=nPlvBPtxEl4)
+[youtube]https://www.youtube.com/watch?v=nPlvBPtxEl4[/youtube]
 
 ##### [https://www.youtube.com/watch?v=nPlvBPtxEl4](https://www.youtube.com/watch?v=nPlvBPtxEl4)
 
@@ -327,7 +326,6 @@ possibilities of technology, and the requirements for business success.”
 ---
 
 [.background-color: #2d6e92]
-[.header: alignment(left),#FFFFFF]
 [.text: #FFFFFF]
 
 # Activity: Design Thinking vs. UX Design
@@ -336,8 +334,6 @@ THINK-PAIR-SHARE
 Compare design thinking to user experience design
 
 ---
-
-[.text: line-height(.8)]
 
 # A Selection of Design Thinking Methods
 
@@ -361,7 +357,7 @@ A technique to help reveal cause and effect, through asking “Why?” often in 
 
 [.text: alignment(center),#FFFFFF]
 
-![inline](https://www.youtube.com/watch?v=zvkYFZUsBnw)
+[youtube]https://www.youtube.com/watch?v=zvkYFZUsBnw[/youtube]
 
 [https://www.youtube.com/watch?v=zvkYFZUsBnw](https://www.youtube.com/watch?v=zvkYFZUsBnw)
 
@@ -373,13 +369,11 @@ A technique to help reveal cause and effect, through asking “Why?” often in 
 
 [.text: alignment(center),#FFFFFF]
 
-![inline](https://www.youtube.com/watch?v=0fKBhvDjuy0)
+[youtube]https://www.youtube.com/watch?v=0fKBhvDjuy0[/youtube]
 
 [https://www.youtube.com/watch?v=0fKBhvDjuy0](https://www.youtube.com/watch?v=0fKBhvDjuy0)
 
 ---
-
-[.text: line-height(.8)]
 
 # Time for Questions & Discussion
 
@@ -393,7 +387,6 @@ A technique to help reveal cause and effect, through asking “Why?” often in 
 ---
 
 [.background-color: #611036]
-[.header: alignment(left),#FFFFFF]
 
 # What is user experience design?
 
@@ -450,8 +443,6 @@ More specifically, usability can be defined as:
 
 ---
 
-[.text: line-height(.8)]
-
 # Usability as a Measurement (as defined by Jakob Nielsen)
 
 - Learnability
@@ -493,7 +484,6 @@ Satisfaction – how pleasant do users find the system to work with?
 ---
 
 [.background-color: #2d6e92]
-[.header: alignment(left),#FFFFFF]
 [.text: #FFFFFF]
 
 # Activity: Usability Elements
@@ -511,8 +501,6 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 
 ---
 
-[.text: line-height(.8)]
-
 # Time for More Questions & Discussion
 
 - What we’ve covered in this section
@@ -523,8 +511,6 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
  - Usability as a design approach
 
 ---
-
-[.text: line-height(.8)]
 
 # Usability as a Design Approach
 
@@ -538,7 +524,7 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 ---
 
 [.build-lists: true]
-[.text: line-height(.8)]
+
 
 # Designing a Useful Product (by Scott McGregor)
 
@@ -552,8 +538,6 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 
 ---
 
-[.text: line-height(.8)]
-
 # Designing a Useful Product (by Scott McGregor)
 
 1. Internal combustion engine
@@ -565,8 +549,6 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 7. To be comfortable to sit on
 
 ---
-
-[.text: line-height(.8)]
 
 # Aspects of an Enjoyable Product
 
@@ -580,7 +562,6 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 ---
 
 [.background-color: #2d6e92]
-[.header: alignment(left),#FFFFFF]
 [.text: #FFFFFF]
 
 # Case Study: Making an Enjoyable Product
@@ -601,10 +582,12 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 
 [.background-color: #FFFFFF]
 
+![fit](http://www.designtos.com/postpic/2015/12/activity-centered-design_23468.jpg)
+
 ---
 
 [.background-color: #618B25]
-[.text: line-height(.8)]
+
 
 # Summary
 
@@ -615,8 +598,7 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 ---
 
 [.background-color: #888888]
-[.header: #FFFFFF, alignment(left)]
-[.text: line-height(.8)]
+
 
 # References and Suggested Books
 
@@ -633,7 +615,6 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 ---
 
 [.background-color: #888888]
-[.header: #FFFFFF, alignment(left)]
 
 # Image Credits
 
@@ -656,4 +637,5 @@ http://www.uxbooth.com/articles/setting-standards-for-usability-testing/
 http://weareinflux.com/useful-usable-desirable/
 http://www.wqusability.com/articles/language-usability-tekom-proceedings.html
 https://www.tamingdata.com/2010/07/08/the-project-management-tree-swing-cartoon-past-and-present/
+http://www.designtos.com/post_user-centered-design-process_23464/
 ```
