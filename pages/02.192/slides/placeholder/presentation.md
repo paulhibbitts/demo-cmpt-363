@@ -9,9 +9,9 @@ style:
 horizontal: true
 shortcodes: true
 presentation:
-    content: none
+    content: Content
     parser: DecksetParser
-    styles: none
+    styles: Styles
 ---
 
 # Introduction to UX
