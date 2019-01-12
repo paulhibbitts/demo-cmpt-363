@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 [May 15th Class One-minute Summaries](https://canvas.sfu.ca/courses/44038/assignments/347277)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-slides/week-02)
+[plugin:page-inject](/192/all-pdf-slides/week-02)
 
 ### CMPT-363 UX Design Process/Toolkit
 ![CMPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)

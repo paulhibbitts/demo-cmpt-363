@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 [Jul 10th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-slides/week-10)
+[plugin:page-inject](/192/all-pdf-slides/week-10)
 
 ### Supplemental Materials  
 [UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  

@@ -1,7 +1,7 @@
 ---
 title: 'All Slides'
 published: true
-visible: true
+visible: false
 content:
     order:
         by: default
