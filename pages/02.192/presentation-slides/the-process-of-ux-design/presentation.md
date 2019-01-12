@@ -1,5 +1,19 @@
-theme: CMPT-363
-autoscale: true
+---
+title: The Process of UX
+textsize:
+    scale: '1.125'
+style:
+    header-font-family: 'GillSans,Arial'
+    block-font-family: 'GillSans,Arial'
+    justify-content: center
+horizontal: true
+shortcodes: true
+presentation:
+    parser: DecksetParser
+---
+
+[.header: alignment(center)]
+[.text: alignment(center)]
 
 # The Process of UX Design
 

@@ -1,5 +1,5 @@
 ---
-title: Placeholder
+title: Introduction to UX
 textsize:
     scale: '1.125'
 style:
