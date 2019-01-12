@@ -29,7 +29,7 @@ hide_git_sync_repo_link: true
 [Interaction Design History](http://www.slideshare.net/mrettig/interaction-design-history)  
 <div class="embed-responsive embed-responsive-4by3"><iframe src="//www.slideshare.net/slideshow/embed_code/key/aTtcFNn7i55UVK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></div>
 
-### Handouts
+### Handouts  
 [Course Overview](https://canvas.sfu.ca)  
 
 ### Recommended Reading  
