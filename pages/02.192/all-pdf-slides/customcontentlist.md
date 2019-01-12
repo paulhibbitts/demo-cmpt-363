@@ -1,5 +1,5 @@
 ---
-title: 'All Slides'
+title: 'All PDF Slides (Old)'
 published: true
 visible: false
 content:
