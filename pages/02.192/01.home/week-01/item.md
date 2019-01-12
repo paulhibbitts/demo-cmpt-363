@@ -22,8 +22,8 @@ hide_git_sync_repo_link: true
 [May 8th Class One-minute Summaries](https://canvas.sfu.ca/courses/44038/assignments/347269)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-pdf-slides/week-01-1)  
-[plugin:page-inject](/192/all-pdf-slides/week-01-2)  
+[plugin:page-inject](/192/all-slides/week-01-1)  
+[plugin:page-inject](/192/all-slides/week-01-2)  
 
 ### Supplemental Materials  
 [Interaction Design History](http://www.slideshare.net/mrettig/interaction-design-history)  
