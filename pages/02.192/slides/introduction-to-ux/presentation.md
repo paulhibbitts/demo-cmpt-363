@@ -12,6 +12,9 @@ presentation:
     parser: DecksetParser
 ---
 
+[.header: alignment(center)]
+[.text: alignment(center)]
+
 # Introduction to UX
 
 ### CMPT 363

@@ -12,6 +12,9 @@ presentation:
     parser: DecksetParser
 ---
 
+[.header: alignment(center)]
+[.text: alignment(center)]
+
 # Course Overview
 
 ### CMPT 363
@@ -33,8 +36,6 @@ Twitter: [@hibbittsdesign](https://twitter.com/hibbittsdesign)
 Office hours: Wednesdays 2:00-3:30pm TASC 1 9409
 
 ---
-
-
 
 # About Me
 
