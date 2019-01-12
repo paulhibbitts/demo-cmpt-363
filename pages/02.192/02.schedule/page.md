@@ -7,8 +7,8 @@ hide_git_sync_repo_link: false
 
 ## [:fa-calendar-o:Week 1 (May 8 - 14)](/192/home/week-01)
 **What is usability and user experience design?**  
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-01-1?template=partials/pdflinkonly)
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-01-2?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-01-1?template=partials/iframelinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-01-2?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-01?template=partials/embedlycardlinkonly)  
 
 ## [:fa-calendar-o:Week 2 (May 15 - 21)](/192/home/week-02)
