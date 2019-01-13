@@ -5,8 +5,6 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-[iframe url="https://demo.hibbittsdesign.org/cmpt-363-hub/192/presentation-slides/course-overview#/course-overview-0"]
-
 ## [:fa-calendar-o:Week 1 (May 8 - 14)](/192/home/week-01)
 **What is usability and user experience design?**  
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-01-1?template=partials/iframelinkonly)
