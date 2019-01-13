@@ -11,5 +11,5 @@ content:
 display_child_page_titles: true
 display_content_titles: false
 display_content_links: false
-hide_git_sync_repo_link: true
+hide_git_sync_repo_link: false
 ---
