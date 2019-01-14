@@ -9,9 +9,7 @@ style:
 horizontal: true
 shortcodes: true
 presentation:
-    content: none
     parser: DecksetParser
-    styles: none
 ---
 
 [.header: alignment(center)]
