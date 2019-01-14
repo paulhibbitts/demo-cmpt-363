@@ -14,7 +14,6 @@ display_child_page_titles: true
 display_content_titles: false
 hide_git_sync_repo_link: false
 git_sync_repo_link: 'https://github.com/paulhibbitts/demo-cmpt-363-hub/tree/master/pages/02.192/presentation-slides'
-git_sync_repo_link_text: 'Edit Course Slides'
+git_sync_repo_link_text: 'Propose a Change to the Course Slides'
 display_content_links: false
 ---
-
