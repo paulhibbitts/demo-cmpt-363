@@ -1,15 +1,17 @@
 ---
-title: Course Overview
+title: 'Course Overview'
 textsize:
     scale: '1.125'
 style:
-    header-font-family: 'GillSans,Arial'
+    header-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
     block-font-family: 'GillSans,Arial'
     justify-content: center
 horizontal: true
 shortcodes: true
 presentation:
+    content: none
     parser: DecksetParser
+    styles: none
 ---
 
 [.header: alignment(center)]
