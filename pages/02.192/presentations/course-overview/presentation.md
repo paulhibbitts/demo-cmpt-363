@@ -1,7 +1,7 @@
 ---
 title: 'Course Overview'
 textsize:
-    scale: '1.125'
+    modifier: 1
 style:
     header-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
     block-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
@@ -9,6 +9,7 @@ style:
 horizontal: true
 shortcodes: true
 presentation:
+    content: Content
     parser: DecksetParser
 ---
 
@@ -51,7 +52,7 @@ established Hibbitts Design in 1998
 
 ---
 
-![[fit]](https://fastmonkeys.files.wordpress.com/2014/06/how-to-build-a-minimum-viable-product.jpg)
+![fit](https://fastmonkeys.files.wordpress.com/2014/06/how-to-build-a-minimum-viable-product.jpg)
 
 ---
 
@@ -59,7 +60,7 @@ established Hibbitts Design in 1998
 
 ---
 
-![[fit]](https://pbs.twimg.com/media/Bya3nBvCQAASBGi.png)
+![fit](https://pbs.twimg.com/media/Bya3nBvCQAASBGi.png)
 
 ---
 
@@ -269,35 +270,35 @@ I always want to hear from you how together we make our Canvas course hub better
 
 ---
 
-![[fit]](images/gitlab-1.png)
+![fit](images/gitlab-1.png)
 
 ---
 
-![[fit]](images/canvas-1.png)
+![fit](images/canvas-1.png)
 
 ---
 
-![[fit]](images/canvas-2.png)
+![fit](images/canvas-2.png)
 
 ---
 
-![[fit]](images/gitlab-2.png)
+![fit](images/gitlab-2.png)
 
 ---
 
-![[fit]](images/gitlab-3.png)
+![fit](images/gitlab-3.png)
 
 ---
 
-![[fit]](images/gitlab-4.png)
+![fit](images/gitlab-4.png)
 
 ---
 
-![[fit]](images/canvas-3.png)
+![fit](images/canvas-3.png)
 
 ---
 
-![[fit]](images/gitlab-5.png)
+![fit](images/gitlab-5.png)
 
 ---
 
