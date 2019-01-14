@@ -1,7 +1,7 @@
 ---
 title: Introduction to UX
 textsize:
-    scale: '1.125'
+    scale: 1.125
 style:
     header-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
     block-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
@@ -9,6 +9,7 @@ style:
 horizontal: true
 shortcodes: true
 presentation:
+    content: Content
     parser: DecksetParser
 ---
 

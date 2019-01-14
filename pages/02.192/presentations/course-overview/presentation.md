@@ -1,7 +1,7 @@
 ---
 title: 'Course Overview'
 textsize:
-    modifier: 1
+    scale: 1.125
 style:
     header-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
     block-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
