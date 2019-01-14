@@ -17,3 +17,4 @@ git_sync_repo_link: 'https://github.com/paulhibbitts/demo-cmpt-363-hub/tree/mast
 git_sync_repo_link_text: 'Edit Course Slides'
 display_content_links: false
 ---
+
