@@ -1,0 +1,11 @@
+---
+title: 'Week 6 - Visual Design'
+visible: false
+iframe_title: 'Visual Design'
+display_iframe_title: true
+iframe_url: 'https://demo.hibbittsdesign.org/cmpt-363-hub/192/presentations/placeholder-slide'
+iframe_aspect_ratio: 4by3
+published: true
+cache_enable: false
+visible: true
+---

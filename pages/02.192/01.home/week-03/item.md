@@ -33,5 +33,5 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](/192/all-readings/week-03)
 
 ### Supplemental Readings  
-[plugin:page-inject](/192/ux-techniques-guide/how-to-conduct-a-usability-inspection/cognitive-walkthroughs)  
-[plugin:page-inject](/192/ux-techniques-guide/how-to-conduct-a-usability-inspection/heuristic-evaluations)  
+[plugin:page-inject](/192/ux-techniques-guide/how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs)  
+[plugin:page-inject](/192/ux-techniques-guide/how-to-conduct-a-user-interface-inspection/heuristic-evaluations)  

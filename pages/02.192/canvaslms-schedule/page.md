@@ -28,25 +28,25 @@ hide_git_sync_repo_link: false
 
 ## :fa-calendar-o:Week 4 (May 29 - Jun 4)
 **What is the practice of strategic interaction design?**   
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-04?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-04?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-04?template=partials/embedlycardlinkonly)  
 :fa-users: In-class office hours (tentative)
 
 ## :fa-calendar-o:Week 5 (Jun 5 - 11)
 **How to bridge the gap between the problem space and design space?**   
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-05?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-05?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-05?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 6 (Jun 12 - 18)
 **What are the essentials of effective visual communication?**   
 :fa-pencil:[Visual Re-design](#) assignment due Jun 25th  
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-06?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-06?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-06?template=partials/embedlycardlinkonly)  
 :fa-users: In-class office hours (tentative)  
 
 ## :fa-calendar-o:Week 7 (Jun 19 - 25)
 **[How to design for mobile and multi-device usage?](https://canvas.sfu.ca/courses/44038/modules/items/1096971)**  
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-07?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-07?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-07?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 8 (Jun 26 - Jul 2)
@@ -54,7 +54,7 @@ hide_git_sync_repo_link: false
 :fa-pencil:[Project User Research Report](https://canvas.sfu.ca) due Jul 17th  
 :fa-file-o:[Team Member Evaluation](https://canvas.sfu.ca) for  assignment #4 due in class Jul 18th  
 :fa-folder:[Informed Consent Materials](https://canvas.sfu.ca)  
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-08?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-08?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-08?template=partials/embedlycardlinkonly)  
 :fa-users: In-class office hours (tentative)  
 
@@ -64,7 +64,7 @@ TBD
 
 ## :fa-calendar-o:Week 10 (Jul 10 - 16)  
 **How to design products for how people think, learn and feel?**  
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-10?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-10?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-10?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 11 (Jul 17 - 23)
@@ -72,7 +72,7 @@ TBD
 :fa-pencil:[Project Usability Tested Mockups](https://canvas.sfu.ca) due Jul 31st    
 :fa-file-o:[Team Member Evaluation](https://canvas.sfu.ca) for assignment #5 due in class Aug 1st  
 :fa-folder:[Informed Consent Materials](https://canvas.sfu.ca)  
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-11?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-11?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-11?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 12 (Jul 24 - 30)

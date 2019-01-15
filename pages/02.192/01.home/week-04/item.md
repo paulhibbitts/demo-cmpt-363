@@ -21,7 +21,7 @@ hide_git_sync_repo_link: true
 [May 29th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-pdf-slides/week-04)
+[plugin:page-inject](/192/all-slides/week-04)
 
 ### Handouts
 [10 Simple Things Writers Can Do To Improve Web Accessibility](http://www.seamlesscms.com/Insights/Content-Accessibility)  

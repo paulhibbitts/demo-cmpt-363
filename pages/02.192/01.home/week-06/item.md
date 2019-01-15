@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 [Jun 12th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-pdf-slides/week-06)
+[plugin:page-inject](/192/all-slides/week-06)
 
 ### Assignments
 [Visual Re-design](#)  
