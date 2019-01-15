@@ -56,7 +56,7 @@ established Hibbitts Design in 1998
 
 ---
 
-![fit](https://media.giphy.com/media/9338dCRqPoiu4/giphy.gif)
+![fit](https://media.giphy.com/media/7JaT70OLOHWOcpRiCV/giphy.gif)
 
 ---
 
