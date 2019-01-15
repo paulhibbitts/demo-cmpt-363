@@ -1,6 +1,5 @@
 ---
 title: Placeholder Slide
-visible: false
 textsize:
     scale: '1.125'
 style:
