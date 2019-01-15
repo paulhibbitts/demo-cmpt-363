@@ -301,7 +301,6 @@ We believe that our customers will be able to complete the checkout process beca
 * Task analysis
 * Five Ws and one H
 * The five whys
-* User interviews
 * User stories
 
 ---
