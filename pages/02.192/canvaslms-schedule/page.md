@@ -23,7 +23,7 @@ hide_git_sync_repo_link: false
 **[How to conduct a user interface inspection?](https://canvas.sfu.ca/courses/44038/modules/items/1096967)**  
 :fa-pencil:[Usability Inspection](https://canvas.sfu.ca/courses/44038/assignments/347284) assignment due Jun 11th  
 :fa-file:[Usability Inspection Report Template](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Usability%20Inspection%20Report%20Template)  
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-03?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-03?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-03?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 4 (May 29 - Jun 4)

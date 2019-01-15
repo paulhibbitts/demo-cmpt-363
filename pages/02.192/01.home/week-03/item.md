@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 [May 22nd Class One-minute Summaries](https://canvas.sfu.ca/courses/44038/assignments/347277)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-pdf-slides/week-03)
+[plugin:page-inject](/192/all-slides/week-03)
 
 ### Supplemental Materials  
 [Design Heuristics Lecture with Scott Klemmer](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
