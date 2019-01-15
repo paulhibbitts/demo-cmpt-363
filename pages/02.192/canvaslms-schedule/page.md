@@ -16,7 +16,7 @@ hide_git_sync_repo_link: false
 ## :fa-calendar-o:Week 2 (May 15 - 21)
 **[What does a holistic user experience design process look like?](https://canvas.sfu.ca/courses/44038/modules/items/1096966)**  
 :fa-pencil:[Course Reflection Log](https://canvas.sfu.ca/courses/44038/assignments/347280) due Aug 2nd   
-:fa-desktop:[plugin:page-inject](/192/all-pdf-slides/week-02?template=partials/pdflinkonly)
+:fa-desktop:[plugin:page-inject](/192/all-slides/week-02?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-02?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 3 (May 22 - 28)
