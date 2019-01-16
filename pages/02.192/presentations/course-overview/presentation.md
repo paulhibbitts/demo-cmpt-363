@@ -17,6 +17,8 @@ presentation:
 [.header: alignment(center)]
 [.text: alignment(center)]
 
+[fa=cog /] Simplest Format
+
 # Course Overview
 
 ### CMPT 363
