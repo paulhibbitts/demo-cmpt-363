@@ -17,8 +17,6 @@ presentation:
 [.header: alignment(center)]
 [.text: alignment(center)]
 
-[fa=cog /] Simplest Format
-
 # Course Overview
 
 ### CMPT 363
@@ -147,7 +145,7 @@ and principles
 
 
 
-# Reasons To Avoid This Course
+# [fa=fa-exclamation-triangle] Reasons To Avoid This Course [fa=fa-exclamation-triangle] 
 
 * Weekly readings, along with a quiz, are required
 * Frequent in-class individual and group exercises
