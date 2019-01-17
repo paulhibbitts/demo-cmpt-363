@@ -145,7 +145,7 @@ and principles
 
 
 
-# [fa=fa-exclamation-triangle] Reasons To Avoid This Course [fa=fa-exclamation-triangle] 
+# [fa=fa-exclamation-triangle] Reasons To Avoid This Course [fa=fa-exclamation-triangle]
 
 * Weekly readings, along with a quiz, are required
 * Frequent in-class individual and group exercises
@@ -232,8 +232,6 @@ Immediately after (up until 12 midnight the day of class) you will be asked to w
 ---
 
 # Required Textbook
-
-[fa=cog /]
 
 Are you kidding me, in 2019? All required readings will be available on-line.
 
