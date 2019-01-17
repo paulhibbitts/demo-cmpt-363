@@ -1,8 +1,8 @@
 ---
 title: 'Week 4 (May 29 - Jun 4)'
-published: false
+published: true
 date: '29-05-2018 00:00'
-hide_from_post_list: false
+hide_from_post_list: true
 hide_git_sync_repo_link: true
 ---
 
@@ -21,7 +21,9 @@ hide_git_sync_repo_link: true
 [May 29th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-slides/week-04)
+[plugin:page-inject](/192/all-slides/week-04-1)
+
+[plugin:page-inject](/192/all-slides/week-04-2)
 
 ### Handouts
 [10 Simple Things Writers Can Do To Improve Web Accessibility](http://www.seamlesscms.com/Insights/Content-Accessibility)  
