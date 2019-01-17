@@ -470,7 +470,7 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 [.background-color: #bbb549]
 [.header: alignment(left),#000000]
 
-# Conceptualize & Prototype
+# Visualize & Prototype
 
 ---
 
