@@ -1,6 +1,6 @@
 ---
 title: 'Week 5 (Jun 5 - 11)'
-published: false
+published: true
 date: '05-06-2018 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
@@ -28,4 +28,8 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](/192/all-readings/week-05)
 
 ### Supplemental Readings  
-[plugin:content-inject](/192/ux-techniques-guide/05.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models)   
+[plugin:content-inject](/192/ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility)  
+[plugin:content-inject](/192/ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/cognitive-psychology)  
+[plugin:content-inject](/192/ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models)   
+[plugin:content-inject](/192/ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/emotional-design)   
+[plugin:content-inject](/192/ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design)   
