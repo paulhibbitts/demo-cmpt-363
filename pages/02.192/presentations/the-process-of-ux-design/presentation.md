@@ -270,8 +270,8 @@ We believe that our customers will be able to complete the checkout process beca
 # Our Process as a Toolkit
 
 * Discover & understand
-* Strategize & prioritize
-* Conceptualize & prototype
+* Strategize & conceptualize
+* Visualize & prototype
 * Evaluate & refine
 
 ---
@@ -399,14 +399,16 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 
 ---
 
-# Strategize & Prioritize
+# Strategize & Conceptualize
 
+* Conceptual models
 * Content strategy
 * Journey maps
 * Kano model
 * Problem statement
 * Product design principles
 * Product Reaction Cards
+* Seven stages of action
 * Usability/UX goals
 * Value Proposition
 * Valuing UX
@@ -478,16 +480,14 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 
 ---
 
-# Conceptualize & Prototype
+# Visualize & Prototype
 
-* Conceptual models
 * Content inventory
 * Content prototyping
 * Design patterns
 * Task flow diagrams
 * Platform design principles
 * Responsive Web Design
-* Seven stages of action
 * Storyboards
 * Visual design principles
 * Wireframes
