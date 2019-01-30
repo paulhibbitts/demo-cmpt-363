@@ -6,11 +6,11 @@ hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
-Instructor design reviews in TASC 1 8003, no regular class.
+Instructor design reviews TBD, no regular class.
 
 ===
 
-Instructor design reviews in TASC 1 8003, no regular class.
+Instructor design reviews TBD, no regular class.
 
 ## Required Reading  
-[plugin:page-inject](/192/all-readings/week-12)
+[plugin:page-inject](/192/weekly-readings/week-12)

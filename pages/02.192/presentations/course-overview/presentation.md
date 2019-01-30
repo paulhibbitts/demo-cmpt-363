@@ -35,7 +35,7 @@ presentation:
 Paul Hibbitts  
 Email: <paulh@sfu.ca>  
 Twitter: [@hibbittsdesign](https://twitter.com/hibbittsdesign)  
-Office hours: Wednesdays 2:00-3:30pm TASC 1 9409
+Office hours: TBD
 
 ---
 
@@ -53,6 +53,8 @@ established Hibbitts Design in 1998
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://fastmonkeys.files.wordpress.com/2014/06/how-to-build-a-minimum-viable-product.jpg)
 
 ---
@@ -61,16 +63,15 @@ established Hibbitts Design in 1998
 
 ---
 
-![fit](https://pbs.twimg.com/media/Bya3nBvCQAASBGi.png)
+[.background-color: #FFFFFF]
+
+![fit](images/mvp.png)
 
 ---
 
 # Teaching Assistant
 
-Hamid Homapour
-Email: <hhomapou@sfu.ca>
-
-Hamid will not be holding regular office hours during the term
+TBD
 
 ---
 
@@ -143,8 +144,6 @@ and principles
 
 ---
 
-
-
 # [fa=fa-exclamation-triangle] Reasons To Avoid This Course [fa=fa-exclamation-triangle]
 
 * Weekly readings, along with a quiz, are required
@@ -160,8 +159,6 @@ and principles
 
 ---
 
-
-
 # Reasons Why You Might Want To Stick Around
 
 * A ~~good~~ great UX is now a software industry expectation
@@ -174,8 +171,6 @@ within teams
 
 ---
 
-
-
 # Course Outline as Topics
 
 * Design Research
@@ -185,8 +180,6 @@ within teams
 * Usability Evaluation
 
 ---
-
-
 
 # ~~Course Outline as Topics~~
 
@@ -198,20 +191,18 @@ within teams
 
 ---
 
-
-
 # Course Outline as Questions
 
 * What is usability and user experience design?
 * What does a holistic user experience design process look like?
-* How to make more strategic design decisions?
+* How to understand and communicate people’s needs and behaviors?
 * How to explore and communicate possible design solutions?
+* How to make more strategic design decisions?
+* How to bridge the gap between the problem space and design space?
+* What are the essentials of effective visual communication?
+* How to design for mobile and multi-device usage?
 * How to conduct a usability inspection?
 * How to plan, conduct, and summarize usability tests?
-* How to design for mobile and multi-device usage?
-* How to understand and communicate people’s needs and behaviors?
-* How to design products for how people think, learn and feel?
-* What are the essentials of effective visual communication?
 
 ---
 
@@ -254,8 +245,6 @@ None — midterms and finals are most often poor gauges of what students have re
 I always want to hear from you how together we make our Canvas course hub better. Be honest, I can take it.
 
 ---
-
-[.text: #FFFFFF, line-height(.8)]
 
 # Quick Poll
 
@@ -301,8 +290,6 @@ I always want to hear from you how together we make our Canvas course hub better
 
 ---
 
-
-
 # Course Grading (tentative)
 
 - Individual (50%)
@@ -310,16 +297,12 @@ I always want to hear from you how together we make our Canvas course hub better
  - Journey Map: 15%
  - Usability Inspection (including possible peer reviews): 25%
  - Reflection Log: 5%
-
 - Group (25%)
  - User Research Report: 25%
-
 - Team or Group (25%)
  - Usability Tested Mockups: 25%
 
 ---
-
-
 
 # Weekly Reading Summaries
 
@@ -344,14 +327,12 @@ A practice reading quiz (not graded) will be available tomorrow on the course hu
 
 # Individual and Group Assignments
 
-### Two Possibilities:
+### Two Options:
 
-* SFU’s Open Source CourSys App
-* SFU’s Co-op myExperience App - late breaking option!
+* Student group choice of open source app
+* SFU’s Coursys app ([github.com/sfu-fas/coursys](https://github.com/sfu-fas/coursys))
 
 ---
-
-
 
 # Assignment Policy
 
@@ -362,8 +343,6 @@ A practice reading quiz (not graded) will be available tomorrow on the course hu
 - At my discretion, the grades of group members who are clearly not contributing a fair share of work may be adjusted​, including​ a grade of zero (0)
 
 ---
-
-
 
 # Important Dates (Tentative)
 
@@ -388,6 +367,7 @@ A practice reading quiz (not graded) will be available tomorrow on the course hu
 
 ---
 
+[.background-color: #FFFFFF]
 [.text: #FFFFFF, alignment(center)]
 
 ![inline 70%](images/github-open-source-guide.png)
@@ -414,19 +394,17 @@ A practice reading quiz (not graded) will be available tomorrow on the course hu
 
 ---
 
+[.background-color: #FFFFFF]
 [.text: #FFFFFF, alignment(center)]
 
-![inline 80%](images/todd-sieling-quote.png)  
-
-###### [https://medium.com/@mkhezr/the-future-of-technology-a-conversation-with-todd-sieling-1852d0e3bcc5](https://medium.com/@mkhezr/the-future-of-technology-a-conversation-with-todd-sieling-1852d0e3bcc5)
+![inline 50%](images/todd-sieling-quote.png)  
 
 ---
 
+[.background-color: #FFFFFF]
 [.text: #FFFFFF, alignment(center)]
 
-![inline 80%](images/julia-ferraioli-quote.png)  
-
-###### [https://twitter.com/juliaferraioli/status/984531609004183552](https://twitter.com/juliaferraioli/status/984531609004183552)
+![inline 50%](images/julia-ferraioli-quote.png)  
 
 ---
 

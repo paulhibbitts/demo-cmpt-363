@@ -7,7 +7,7 @@ metadata:
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'CMPT-363 User Interface Design'
     'twitter:description': 'Course Hub for CMPT 363 User Interface Design at Simon Fraser University'
-    'twitter:image': 'http://paulhibbitts.net/cmpt-363-182/user/pages/headerimage/daria-nepriakhina-474036.jpg'
+    'twitter:image': 'http://prototype.hibbittsdesign.org/cmpt-363/192/headerimage/4325067780_450ce6b347_o.jpg'
 sitemap:
     changefreq: monthly
 body_classes: 'header-image fullwidth'
