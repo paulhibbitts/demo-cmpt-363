@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## What does a holistic user experience design process look like?
-[Software Development Processes](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-the-process-of-ux-design.pdf#page=4)  
-[User Experience Design Processes](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-the-process-of-ux-design.pdf#page=24)  
-[Our Design Process (aka Toolkit)](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-the-process-of-ux-design.pdf#page=31)
+[Software Development Processes](https://prototype.hibbittsdesign.org/cmpt-363/192/presentations/introduction-to-ux#/introduction-to-ux-0)  
+[User Experience Design Processes](https://prototype.hibbittsdesign.org/cmpt-363/192/presentations/introduction-to-ux#/introduction-to-ux-0)  
+[Our Design Process (aka Toolkit)](https://prototype.hibbittsdesign.org/cmpt-363/192/presentations/introduction-to-ux#/introduction-to-ux-0)
 
 ===
 
@@ -19,10 +19,10 @@ hide_git_sync_repo_link: true
 [May 15th Class One-minute Summaries](https://canvas.sfu.ca/courses/44038/assignments/347277)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-slides/week-02)
+[plugin:page-inject](/192/weekly-slides/week-02)
 
 ### CMPT-363 UX Design Process/Toolkit
-![CMPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
+![CMPT-363 UX Design Process/Toolkit Diagram](ux-toolkit-8-no-numbers.png)
 
 ### Handouts
 [Product Reaction Cards](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Product%20Reaction%20Cards)  
@@ -31,7 +31,7 @@ hide_git_sync_repo_link: true
 [Course Reflection Log](https://canvas.sfu.ca/courses/44038/assignments/347280)  
 
 ### Recommended Reading  
-[plugin:page-inject](/192/all-readings/week-02)
+[plugin:page-inject](/192/weekly-readings/week-02)
 
 ### Supplemental Readings  
 [plugin:content-inject](/192/ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/agile-ux)  

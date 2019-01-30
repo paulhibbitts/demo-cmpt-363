@@ -19,18 +19,18 @@ hide_git_sync_repo_link: true
 [Jun 26th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-slides/week-08)
+[plugin:page-inject](/192/weekly-slides/week-08)
 
 ### Assignments
-[User Research Report](https://canvas.sfu.ca)  
-[Informed Consent Materials](https://canvas.sfu.ca)  
+[User Research Report](https://canvas.sfu.ca/courses/44038/assignments/347286)  
+[Informed Consent Materials](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Informed%20Consent)  
 
 ### Supplemental Materials  
 [What People Are Really Doing Video](http://vimeo.com/album/169777/video/7099570)  
 <div class="embed-responsive embed-responsive-4by3"><iframe src="https://player.vimeo.com/video/7099570" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ### Required Reading  
-[plugin:page-inject](/192/all-readings/week-08)
+[plugin:page-inject](/192/weekly-readings/week-08)
 
 ### Supplemental Readings  
 [plugin:content-inject](/192/ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/contextual-inquiry)  

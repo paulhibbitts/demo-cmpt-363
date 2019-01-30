@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to conduct a user interface inspection?   
-[Cognitive Walkthroughs](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=6)  
-[Conducting Heuristic Evaluations](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=17)  
-[Nielsen’s Heuristics](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-user-interface-inspections.pdf#page=38)  
+[Cognitive Walkthroughs](https://prototype.hibbittsdesign.org/cmpt-363/192/presentations/user-interface-inspections#/user-interface-inspections-0)  
+[Conducting Heuristic Evaluations](https://prototype.hibbittsdesign.org/cmpt-363/192/presentations/user-interface-inspections#/user-interface-inspections-0)  
+[Nielsen’s Heuristics](https://prototype.hibbittsdesign.org/cmpt-363/192/presentations/user-interface-inspections#/user-interface-inspections-0)  
 
 ===
 
@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 [May 22nd Class One-minute Summaries](https://canvas.sfu.ca/courses/44038/assignments/347277)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-slides/week-03)
+[plugin:page-inject](/192/weekly-slides/week-03)
 
 ### Supplemental Materials  
 [Design Heuristics Lecture with Scott Klemmer](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
@@ -30,7 +30,7 @@ hide_git_sync_repo_link: true
 [Usability Inspection Report Template](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Usability%20Inspection%20Report%20Template)
 
 ### Required Reading  
-[plugin:page-inject](/192/all-readings/week-03)
+[plugin:page-inject](/192/weekly-readings/week-03)
 
 ### Supplemental Readings  
 [plugin:page-inject](/192/ux-techniques-guide/how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs)  

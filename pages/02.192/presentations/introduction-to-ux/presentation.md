@@ -60,6 +60,8 @@ A field of study which strives to make interactions between people and computers
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://upload.wikimedia.org/wikipedia/commons/3/37/Grace_Hopper_and_UNIVAC.jpg)
 
 ---
@@ -78,11 +80,11 @@ A field of study which strives to make interactions between people and computers
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://foundationsofhci.files.wordpress.com/2012/10/figure_1.png)
 
 ---
-
-
 
 # Contemporary HCI Issues (Yvonne Rogers)
 
@@ -136,8 +138,6 @@ User interface design is the process of supporting the *goals* of the user, idea
 # What is Information Architecture (IA)?
 
 ---
-
-[.background-color: #FFFFFF]
 
 ![fit](http://assets.uxbooth.com/uploads/2015/12/ExplainIA-Poster1-1024x791.gif)
 
@@ -206,6 +206,8 @@ What are some examples of good or bad user experiences?
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://cdn-images-1.medium.com/max/1600/1*Clq8A-DdOYaWn-VrSGBmiQ.jpeg)
 
 ---
@@ -250,6 +252,8 @@ possibilities of technology, and the requirements for business success.”
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://static1.squarespace.com/static/50144a1784ae6db4b48e7f3d/t/57c63436e4fcb5cd8d97a4a1/1472607294777/?format=1500w)
 
 ---
@@ -264,7 +268,7 @@ possibilities of technology, and the requirements for business success.”
 
 [.background-color: #FFFFFF]
 
-![fit](https://idealog.co.nz/media/VERSIONS/features/2017/03/designthinkingideovenn_1920.png)
+![fit](https://www.possible.com/pov/-/media/D7D58CBC64CC48AC880BD6AEE2DC8708.ashx?h=360&w=474)
 
 ---
 
@@ -456,12 +460,9 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 
 ---
 
-[.background-color: #FFFFFF]
-[.header: #888888]
+![fit](https://image.slidesharecdn.com/uitalk01redux-110725025919-phpapp01/95/usability-design-because-its-awesome-3-728.jpg?cb=1311638204)
 
-![inline 600%](images/ibm-usability-iceberg.jpg)
 
-###### Source: IBM
 
 ---
 
@@ -491,11 +492,11 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 
 # Designing a Useful Product (by Scott McGregor)
 
-[fragment]1. Internal combustion engine[/fragment]
-[fragment]2. Four wheels with rubber tires[/fragment]
-[fragment]3. A transmission connecting the engine to the drive wheels[/fragment]
-[fragment]4. Engine and transmission mounted on a metal chassis[/fragment]
-[fragment]5. A steering wheel[/fragment]
+1. Internal combustion engine
+2. Four wheels with rubber tires
+3. A transmission connecting the engine to the drive wheels
+4. Engine and transmission mounted on a metal chassis
+5. A steering wheel
 <br>
 <br>
 
@@ -538,7 +539,9 @@ How would we consider trade-offs, such as Learnability vs Efficiency?
 
 ---
 
-![fit](http://tamingdata.com/wp-content/uploads/2010/07/tree-swing-project-management-large.png)
+[.background-color: #FFFFFF]
+
+![fit](https://blog.lansa.com/wp-content/uploads/tree-swing-project-management-large.jpg)
 
 ---
 
@@ -591,6 +594,7 @@ http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/
 http://www.karelvredenburg.com/home/2016/8/29/design-vs-design-thinking-explained
 https://idealog.co.nz/casestudies/tom-kelley-ideo
 https://www.forbes.com/sites/reuvencohen/2014/03/31/design-thinking-a-unified-framework-for-innovation/
+https://www.possible.com/pov/the-conundrum-of-humdrum-innovation
 https://www.nngroup.com/articles/design-thinking/
 http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters
 https://uxdesign.cc/designing-ethically-pt-2-535ac61e2992

@@ -19,13 +19,13 @@ hide_git_sync_repo_link: true
 [Jun 12th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/all-slides/week-06)
+[plugin:page-inject](/192/weekly-slides/week-06)
 
 ### Assignments
-[Visual Re-design](#)  
+[Visual Re-design](https://canvas.sfu.ca/courses/44038/assignments/347283)  
 
 ### Required Reading  
-[plugin:page-inject](/192/all-readings/week-06)
+[plugin:page-inject](/192/weekly-readings/week-06)
 
 ### Supplemental Readings  
 [plugin:content-inject](/192/ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/grids)  

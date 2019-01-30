@@ -95,6 +95,8 @@ Agile and Lean are only for software developers
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](http://helpdeskdirect.net/wp-content/uploads/2017/04/dev-4.png)
 
 ---
@@ -108,6 +110,8 @@ Responding to change over following a plan
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://jpattonassociates.com/wp-content/uploads/2008/06/simple_ux_relevance_model_sm.jpg)
 
 ---
@@ -115,6 +119,8 @@ Responding to change over following a plan
 # *With Agile we can combine iterative design with incremental development...*
 
 ---
+
+[.background-color: #FFFFFF]
 
 ![fit](http://blog.caplin.com/wp-content/uploads/numericalfilter.jpg)
 
@@ -129,6 +135,8 @@ Responding to change over following a plan
 [1]: Source: David Hogg, High Performance Solutions, 2008
 
 ---
+
+[.background-color: #FFFFFF]
 
 ![fit](https://cdn-images-1.medium.com/max/1600/1*iXEqTEWoNHg_FrHMeCV6Zw.png)
 
@@ -170,6 +178,8 @@ We believe that our customers will be able to complete the checkout process beca
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://cdn.mos.cms.futurecdn.net/b049ba30dbaa6b13996f3bfc4e7151b9-650-80.jpg)
 
 ---
@@ -190,6 +200,8 @@ We believe that our customers will be able to complete the checkout process beca
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](http://boxesandarrows.com/files/banda/card_sorting_a_definitive_guide/designProcessDiagram.jpg)
 
 ---
@@ -199,9 +211,13 @@ We believe that our customers will be able to complete the checkout process beca
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://www.studiowolf.com/content/uploads/2015/04/UCD_new.gif)
 
 ---
+
+[.background-color: #FFFFFF]
 
 ![fit](http://boxesandarrows.com/files/banda/interaction-design/typical_ucd.gif)
 
@@ -267,6 +283,12 @@ We believe that our customers will be able to complete the checkout process beca
 
 ---
 
+[.background-color: #FFFFFF]
+
+![fit](images/ux-toolkit-8-no-numbers.png)
+
+---
+
 # Our Process as a Toolkit
 
 * Discover & understand
@@ -285,7 +307,7 @@ We believe that our customers will be able to complete the checkout process beca
 
 [.background-color: #FFFFFF]
 
-![fit](images/ux-toolkit-8.png)
+![fit](images/ux-toolkit-8-no-numbers.png)
 
 ---
 
@@ -395,7 +417,7 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 
 [.background-color: #FFFFFF]
 
-![fit](images/ux-toolkit-8.png)
+![fit](images/ux-toolkit-8-no-numbers.png)
 
 ---
 
@@ -464,6 +486,8 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://www.researchgate.net/profile/Erik_Duval/publication/220886299/figure/fig2/AS:305592531996673@1449870345268/A-word-cloud-based-on-the-frequency-of-the-selected-product-reaction-cards.png)
 
 ---
@@ -476,7 +500,7 @@ Examples of student goals and tasks for using the GoSFU course registration syst
 
 [.background-color: #FFFFFF]
 
-![fit](images/ux-toolkit-8.png)
+![fit](images/ux-toolkit-8-no-numbers.png)
 
 ---
 
@@ -500,9 +524,13 @@ An approach where real content is utilized early on during a project for the cre
 
 ---
 
+[.background-color: #FFFFFF]
+
 ![fit](https://thenextweb.com/wp-content/blogs.dir/1/files/2015/04/fake3.jpg)
 
 ---
+
+[.background-color: #FFFFFF]
 
 ![fit](https://thenextweb.com/wp-content/blogs.dir/1/files/2015/04/fake4.jpg)
 
@@ -517,7 +545,7 @@ An approach where real content is utilized early on during a project for the cre
 
 [.background-color: #FFFFFF]
 
-![fit](images/ux-toolkit-8.png)
+![fit](images/ux-toolkit-8-no-numbers.png)
 
 ---
 
@@ -551,6 +579,8 @@ An approach where real content is utilized early on during a project for the cre
  * Visualize the results (e.g. word cloud)
 
 ---
+
+[.background-color: #FFFFFF]
 
 ![fit](http://www.uxforthemasses.com/wp-content/uploads/2016/04/Word-cloud.jpg)
 
