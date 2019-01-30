@@ -71,10 +71,7 @@ established Hibbitts Design in 1998
 
 # Teaching Assistant
 
-Hamid Homapour
-Email: <hhomapou@sfu.ca>
-
-Hamid will not be holding regular office hours during the term
+TBD
 
 ---
 

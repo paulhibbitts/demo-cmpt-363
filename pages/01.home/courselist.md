@@ -1,5 +1,5 @@
 ---
-title: 'CMPT 363 Hub'
+title: 'CMPT 363'
 published: true
 hide_page_title: true
 show_sidebar: false

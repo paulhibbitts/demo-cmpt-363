@@ -7,13 +7,13 @@ iframe_aspect_ratio: 4by3
 display_iframe_links: true
 iframe_links:
     -
-        text: 'Download PDF'
-        icon: fa-download
-        url: 'https://prototype.hibbittsdesign.org/cmpt-363/192/presentations/user-interface-inspections?print-pdf=true'
-    -
-        text: 'Propose an Edit to these Slides'
+        text: 'Suggest an Edit'
         icon: fa-gitlab
         url: 'https://gitlab.com/paulhibbitts/prototype-cmpt-363-192/blob/master/pages/02.192/presentations/user-interface-inspections/presentation.md'
+    -
+        text: 'Export to PDF'
+        icon: fa-pdf
+        url: 'https://prototype.hibbittsdesign.org/cmpt-363/192/presentations/user-interface-inspections?print-pdf=true'
 published: true
 cache_enable: false
 visible: true
