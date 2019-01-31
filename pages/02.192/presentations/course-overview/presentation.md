@@ -17,7 +17,7 @@ presentation:
 [.header: alignment(center)]
 [.text: alignment(center)]
 
-# Course Overview!!!
+# Course Overview!
 
 ### CMPT 363
 
