@@ -39,7 +39,7 @@ Office hours: TBD
 
 ---
 
-# About Me
+# About Me!
 
 * Educator, Interaction Designer, and Open Source Author
 * (Recovering) User Experience Consultant,
