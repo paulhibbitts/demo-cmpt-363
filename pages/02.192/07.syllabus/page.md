@@ -35,8 +35,8 @@ _Effectively working in a team and both verbal and written communication skills 
 ##### Course Assignments (tentative)
 Individual (50%)
 * Weekly Reading Quizzes: 5%
-* Usability Inspection: 20%
-* Visual Re-design Assignment: 20%
+* Usability Inspection: 25%
+* Visual Re-design Assignment: 15%
 * Reflective Course Log: 5%
 
 Team (50%)
