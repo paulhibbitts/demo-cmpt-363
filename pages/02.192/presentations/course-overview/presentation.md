@@ -19,7 +19,7 @@ presentation:
 
 # Course Overview
 
-### CMPT 363
+### CMPT 363 Spring 2019
 
 > When software is hard to use, don’t make excuses for it. Improve it. When a user makes a mistake, don’t blame the user. Ask how the software misled them. Then fix it. The user’s time is more valuable than ours. Respect it. Good UI design is humble.
 -- Jono DiCarlo
