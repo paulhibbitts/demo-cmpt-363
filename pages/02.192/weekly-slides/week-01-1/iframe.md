@@ -2,7 +2,7 @@
 title: 'Week 1 - Course Overview'
 iframe_title: 'Course Overview'
 display_iframe_title: true
-iframe_url: '../192/presentations/course-overview'
+iframe_url: 'https://prototype.hibbittsdesign.org/cmpt-363/192/presentations/course-overview'
 iframe_aspect_ratio: 4by3
 display_iframe_links: true
 iframe_links:
