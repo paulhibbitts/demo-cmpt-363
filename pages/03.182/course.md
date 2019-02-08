@@ -6,5 +6,5 @@ hide_from_course_list: false
 course_home: home
 published: true
 visible: false
+redirect: '/182/home'
 ---
-
