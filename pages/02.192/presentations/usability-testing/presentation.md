@@ -9,7 +9,6 @@ style:
     justify-content: center
 horizontal: true
 presentation:
-    content: Content
     parser: DecksetParser
 ---
 
