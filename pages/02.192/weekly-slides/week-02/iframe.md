@@ -2,7 +2,7 @@
 title: 'Week 2 - The Process of UX Design'
 iframe_title: 'The Process of UX Design'
 display_iframe_title: true
-iframe_source: '/192/presentations/introduction-to-ux'
+iframe_source: '/192/presentations/the-process-of-ux-design'
 iframe_aspect_ratio: 4by3
 display_iframe_links: true
 iframe_links:
