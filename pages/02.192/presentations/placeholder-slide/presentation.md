@@ -24,6 +24,12 @@ presentation:
 
 ---
 
+[.background-color: #FFFFFF]
+
+![fit](http://hibbittsdesign.org/ux-toolkit-8-no-numbers.png)
+
+---
+
 [.background-color: #618B25]
 
 # Topics to Explore
