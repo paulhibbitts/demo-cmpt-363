@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to conduct a user interface inspection?   
-[Cognitive Walkthroughs](/192/presentations/user-interface-inspections#/user-interface-inspections-0)  
-[Conducting Heuristic Evaluations](/192/presentations/user-interface-inspections#/user-interface-inspections-0)  
-[Nielsen’s Heuristics](/192/presentations/user-interface-inspections#/user-interface-inspections-0)  
+[Cognitive Walkthroughs](/192/presentations/user-interface-inspections?classes=newwindow,external-link)  
+[Conducting Heuristic Evaluations](/192/presentations/user-interface-inspections?classes=newwindow,external-link)  
+[Nielsen’s Heuristics](/192/presentations/user-interface-inspections?classes=newwindow,external-link)  
 
 ===
 

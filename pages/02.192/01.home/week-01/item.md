@@ -7,12 +7,12 @@ hide_git_sync_repo_link: true
 ---
 
 ## What is this course all about?
-[Course Overview](/192/presentations/course-overview#/course-overview-0)
+[Course Overview](/192/presentations/course-overview?classes=newwindow,external-link)
 
 ## What is usability and user experience design?
-[HCI, UI, IA, IxD, and UX](/192/presentations/introduction-to-ux#/introduction-to-ux-3)  
-[Design Thinking](/192/presentations/introduction-to-ux#/introduction-to-ux-34)  
-[Usability and UCD](/192/presentations/introduction-to-ux#/introduction-to-ux-52)  
+[HCI, UI, IA, IxD, and UX](/192/presentations/introduction-to-ux?classes=newwindow,external-link#/introduction-to-ux-3)  
+[Design Thinking](/192/presentations/introduction-to-ux?classes=newwindow,external-link#/introduction-to-ux-34)  
+[Usability and UCD](/192/presentations/introduction-to-ux?classes=newwindow,external-link#/introduction-to-ux-52)  
 
 ===
 
