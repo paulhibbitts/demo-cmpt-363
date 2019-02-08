@@ -9,7 +9,7 @@ iframe_links:
     -
         text: 'Suggest an Edit'
         icon: fa-gitlab
-        source: 'https://gitlab.com/paulhibbitts/prototype-cmpt-363-192/blob/master/pages/02.192/presentations/placeholder-slide'
+        source: 'https://gitlab.com/paulhibbitts/prototype-cmpt-363-192/blob/master/pages/02.192/presentations/placeholder-slide/presentation.md'
     -
         text: 'Export to PDF'
         icon: fa-download
