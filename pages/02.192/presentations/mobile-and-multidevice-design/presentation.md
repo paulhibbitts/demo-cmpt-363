@@ -8,7 +8,6 @@ style:
     block-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
     justify-content: center
 horizontal: true
-shortcodes: true
 presentation:
     content: Content
     parser: DecksetParser
