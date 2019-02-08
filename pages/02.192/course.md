@@ -7,6 +7,7 @@ hide_from_course_list: false
 course_home: home
 page-inject:
     processed_content: false
+redirect: '/192/home'
 ---
 
 [plugin:content-inject](/192/home/_class-preparations)
