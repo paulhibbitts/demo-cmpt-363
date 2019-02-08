@@ -21,3 +21,47 @@ presentation:
 
 > “A work in progress. And the possibilities are endless.”
 -- Elizabeth Eulberg
+
+---
+
+[.background-color: #618B25]
+
+# Topics to Explore
+1. Topic One  
+2. Topic Two   
+3. Topic Three  
+
+---
+
+[.background-color: #611036]
+
+# Slides Placeholder
+
+### Topic One
+
+---
+
+[.background-color: #611036]
+
+# Slides Placeholder
+
+### Topic Two
+
+---
+
+[.background-color: #611036]
+
+# Slides Placeholder
+
+### Topic Three
+
+---
+
+[.background-color: #618B25]
+
+# Summary
+1. Topic One  
+2. Topic Two   
+3. Topic Three  
+
+---
