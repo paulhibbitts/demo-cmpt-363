@@ -55,7 +55,7 @@ presentation:
 
 # Slides Placeholder
 
-### [fa=fa-star] Topic Two
+### [fa=fa-rocket] Topic Two
 
 ---
 
@@ -63,7 +63,7 @@ presentation:
 
 # Slides Placeholder
 
-### [fa=fa-space-shuttle] Topic Three
+### [fa=fa-rocket] Topic Three
 
 ---
 
