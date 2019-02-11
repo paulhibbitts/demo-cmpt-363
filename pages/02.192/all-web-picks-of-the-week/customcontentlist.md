@@ -1,5 +1,5 @@
 ---
-title: 'Web Picks of the Week'
+title: 'All Web Picks of the Week'
 published: true
 visible: false
 content:

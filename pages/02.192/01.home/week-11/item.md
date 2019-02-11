@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 [Jul 17th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/weekly-slides/week-05)
+[plugin:page-inject](/192/all-slides/week-05)
 
 ### Assignments
 [Usability Tested Mockups](https://canvas.sfu.ca/courses/44038/assignments/347285)  
@@ -30,7 +30,7 @@ hide_git_sync_repo_link: true
 <div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/QckIzHC99Xc" frameborder="0" allowfullscreen></iframe></div>
 
 ### Required Reading  
-[plugin:page-inject](/192/weekly-readings/week-05)
+[plugin:page-inject](/192/all-readings/week-05)
 
 ### Supplemental Readings  
 [plugin:page-inject](/192/ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal)  

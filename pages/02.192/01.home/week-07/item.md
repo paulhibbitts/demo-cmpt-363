@@ -19,14 +19,14 @@ hide_git_sync_repo_link: true
 [Jun 19th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/weekly-slides/week-07)
+[plugin:page-inject](/192/all-slides/week-07)
 
 ### Handouts
 [One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Touch%20Interaction%20Checklist)  
 [Responsive Web Design Sketch Sheets](http://jeremypalford.com/wp-content/uploads/2013/07/JPA-Responsive-Web-Design-Sketch-Sheets.zip)  
 
 ### Required Reading  
-[plugin:page-inject](/192/weekly-readings/week-07)
+[plugin:page-inject](/192/all-readings/week-07)
 
 ### Supplemental Readings  
 [plugin:content-inject](/192/ux-techniques-guide/how-to-design-for-mobile-and-multidevice-usage/designing-for-touch)  

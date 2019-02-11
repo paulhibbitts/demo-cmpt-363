@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to conduct a user interface inspection?   
-[Cognitive Walkthroughs](/192/presentations/user-interface-inspections?classes=newwindow,external-link)  
-[Conducting Heuristic Evaluations](/192/presentations/user-interface-inspections?classes=newwindow,external-link)  
-[Nielsen’s Heuristics](/192/presentations/user-interface-inspections?classes=newwindow,external-link)  
+[Cognitive Walkthroughs](/192/presentation/placeholder-slide?classes=newwindow,external-link#/placeholder-slide-4)  
+[Conducting Heuristic Evaluations](/192/presentation/placeholder-slide?classes=newwindow,external-link#/placeholder-slide-5)  
+[Nielsen’s Heuristics](/192/presentation/placeholder-slide?classes=newwindow,external-link#/placeholder-slide-6)  
 
 ===
 
@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 [May 22nd Class One-minute Summaries](https://canvas.sfu.ca/courses/44038/assignments/347277)
 
 ### Presented Slides  
-[plugin:page-inject](/192/weekly-slides/week-03)
+[plugin:page-inject](/192/all-slides/week-03)
 
 ### Supplemental Materials  
 [Design Heuristics Lecture with Scott Klemmer](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
@@ -30,7 +30,7 @@ hide_git_sync_repo_link: true
 [Usability Inspection Report Template](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Usability%20Inspection%20Report%20Template)
 
 ### Required Reading  
-[plugin:page-inject](/192/weekly-readings/week-03)
+[plugin:page-inject](/192/all-readings/week-03)
 
 ### Supplemental Readings  
 [plugin:page-inject](/192/ux-techniques-guide/how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs)  

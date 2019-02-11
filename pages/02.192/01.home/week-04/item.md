@@ -18,9 +18,9 @@ hide_git_sync_repo_link: true
 [May 29th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/weekly-slides/week-04-1)
+[plugin:page-inject](/192/all-slides/week-04-1)
 
-[plugin:page-inject](/192/weekly-slides/week-04-2)
+[plugin:page-inject](/192/all-slides/week-04-2)
 
 ### Handouts
 [10 Simple Things Writers Can Do To Improve Web Accessibility](http://www.seamlesscms.com/Insights/Content-Accessibility)  
@@ -30,7 +30,7 @@ hide_git_sync_repo_link: true
 <div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/NcdrfacG_y4" frameborder="0" allowfullscreen></iframe></div>
 
 ### Required Reading  
-[plugin:page-inject](/192/weekly-readings/week-04)
+[plugin:page-inject](/192/all-readings/week-04)
 
 ### Supplemental Readings  
 [plugin:content-inject](/192/ux-techniques-guide/what-is-the-practice-of-strategic-interaction-design/interaction-design)  

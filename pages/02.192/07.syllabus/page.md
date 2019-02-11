@@ -1,7 +1,7 @@
 ---
 title: Syllabus
 published: true
-visible: true
+visible: false
 show_sidebar: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Weekly Slides'
+title: 'All Weekly Slides'
 published: true
 child_type: embedlycard
 visible: false

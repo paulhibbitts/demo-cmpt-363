@@ -19,7 +19,7 @@ hide_git_sync_repo_link: true
 [Jul 10th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/weekly-slides/week-10)
+[plugin:page-inject](/192/all-slides/week-10)
 
 ### Supplemental Materials  
 [UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
@@ -29,7 +29,7 @@ hide_git_sync_repo_link: true
 [Sketching Templates](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Sketching%20Templates)  
 
 ### Required Reading  
-[plugin:page-inject](/192/weekly-readings/week-10)
+[plugin:page-inject](/192/all-readings/week-10)
 
 ### Supplemental Readings  
 [plugin:page-inject](/192/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/brainstorming)  

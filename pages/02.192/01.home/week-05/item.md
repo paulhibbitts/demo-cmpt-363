@@ -19,13 +19,13 @@ hide_git_sync_repo_link: true
 [Jun 5th Class One-minute Summaries](https://canvas.sfu.ca)
 
 ### Presented Slides  
-[plugin:page-inject](/192/weekly-slides/week-05)
+[plugin:page-inject](/192/all-slides/week-05)
 
 ### Handouts
 [10 Simple Things Writers Can Do To Improve Web Accessibility](http://www.seamlesscms.com/Insights/Content-Accessibility)  
 
 ### Required Reading  
-[plugin:page-inject](/192/weekly-readings/week-05)
+[plugin:page-inject](/192/all-readings/week-05)
 
 ### Supplemental Readings  
 [plugin:content-inject](/192/ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility)  

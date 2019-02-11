@@ -14,3 +14,4 @@ _Accessibility is the practice of removing barriers that prevent interaction or 
 *   [Baby Boomers Are Aging–And Designers Need To Adapt](https://www.fastcodesign.com/90131258/baby-boomers-are-aging-heres-how-design-will-have-to-adapt)
 *   [Design Accessibly, See Differently: Color Contrast Tips And Tools](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/)
 *   [Font Awesome & Accessibility](http://fontawesome.io/accessibility/)  
+*   [Learn to Create Accessible Websites with the Principles of Universal Design](https://www.interaction-design.org/literature/article/learn-to-create-accessible-websites-with-the-principles-of-universal-design)  
