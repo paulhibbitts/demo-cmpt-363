@@ -1,10 +1,10 @@
 ---
 title: Schedule
 published: true
-visible: false
-show_sidebar: false
 hide_page_title: false
+show_sidebar: false
 hide_git_sync_repo_link: false
+visible: false
 ---
 
 ## :fa-calendar-o:Week 1 (May 8 - 14)

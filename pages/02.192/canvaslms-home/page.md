@@ -1,11 +1,12 @@
 ---
 title: 'Home in LMS'
-visible: false
+hide_page_title: false
 show_sidebar: false
+hide_git_sync_repo_link: true
+visible: false
 hide_front_edit_button: true
 page-inject:
     processed_content: true
-hide_git_sync_repo_link: true
 ---
 
 [plugin:content-inject](/192/home/_important-reminders)

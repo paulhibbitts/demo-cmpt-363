@@ -1,7 +1,7 @@
 ---
 title: 'Contact Paul'
-show_sidebar: false
 hide_page_title: false
+show_sidebar: false
 hide_git_sync_repo_link: true
 cache_enable: false
 visible: false
