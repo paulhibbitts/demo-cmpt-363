@@ -53,7 +53,7 @@ established Hibbitts Design in 1998
 
 [.background-color: #FFFFFF]
 
-![fit](https://fastmonkeys.files.wordpress.com/2014/06/how-to-build-a-minimum-viable-product.jpg)
+![fit](https://fastmonkeys.files.wordpress.com/2014/06/how-to-build-a-minimum-viable-product.jpg "Building a minimum viable product")
 
 ---
 
