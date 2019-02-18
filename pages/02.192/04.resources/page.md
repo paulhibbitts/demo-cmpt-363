@@ -4,18 +4,18 @@ published: true
 show_sidebar: true
 ---
 
+## Adobe XD
+*   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
+*   [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
+*   [Learning the basics of Adobe XD in one hour](https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3)
+*   [UX & Web Design tutorial: Adobe XD for Beginners](https://www.digitalartsonline.co.uk/tutorials/interactive-design/adobe-xd-for-beginners/)
+
 ## Reflective Writings  
 *   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
 *   [How Reflecting On Your Work Can Make You A Better Designer](https://medium.com/center-centre-cohort-01/how-reflecting-on-your-work-can-make-you-a-better-designer-5ce2f3886f51)
 *   [Online Guide to Reflective Writing](https://nile.northampton.ac.uk/bbcswebdav/pid-1244383-dt-content-rid-3278540_1/courses/Centre-for-Achievement-and-Performance/Skills/Reflective%20Writing/Reflective%20Writing%20-%20Feb%202017.pdf)
 *   [Reflective Toolbox](http://writeonline.ca/media/documents/ReflectiveToolbox.pdf)
 *   [Reflective writing: a basic introduction](http://www.port.ac.uk/media/contacts-and-departments/student-support-services/ask/downloads/Reflective-writing---a-basic-introduction.pdf)
-
-## Adobe XD
-*   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
-*   [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
-*   [Learning the basics of Adobe XD in one hour](https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3)
-*   [UX & Web Design tutorial: Adobe XD for Beginners](https://www.digitalartsonline.co.uk/tutorials/interactive-design/adobe-xd-for-beginners/)
 
 ## UX Platform Guideline Collections  
 *   [Android User Interface Design Guidelines](https://developer.android.com/guide/practices/ui_guidelines/index.html)
