@@ -7,8 +7,10 @@ show_sidebar: true
 ## Adobe XD
 *   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
 *   [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
+*   [FontAwesome Adobe Experience Design - Adobe XD](https://github.com/boraunal/FontAwesome-AdobeExperience-Design-XD)
 *   [Learning the basics of Adobe XD in one hour](https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3)
 *   [UX & Web Design tutorial: Adobe XD for Beginners](https://www.digitalartsonline.co.uk/tutorials/interactive-design/adobe-xd-for-beginners/)
+*   [Working with Symbols in Adobe XD](Creating and managing Symbols in Adobe XD)
 
 ## Reflective Writings  
 *   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
