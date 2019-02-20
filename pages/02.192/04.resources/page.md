@@ -2,8 +2,10 @@
 title: Resources
 published: true
 show_sidebar: true
+frontmatter:
+  process_twig: true
 anchors:
-    active: true
+    'active':  '{{ not (grav.uri.param(''chromeless'') or grav.uri.param(''embedded'')) }}'
 ---
 
 ## Adobe XD
