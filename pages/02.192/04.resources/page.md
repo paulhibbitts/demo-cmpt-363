@@ -2,6 +2,8 @@
 title: Resources
 published: true
 show_sidebar: true
+anchors:
+    active: true
 ---
 
 ## Adobe XD
