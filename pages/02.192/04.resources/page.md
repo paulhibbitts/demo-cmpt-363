@@ -7,8 +7,10 @@ show_sidebar: true
 ## Adobe XD
 *   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
 *   [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
+*   [Designing an app with a UI resource or UI kit](https://helpx.adobe.com/ca/xd/how-to/design-app-ui-resource-kit.html)
 *   [FontAwesome Adobe Experience Design - Adobe XD](https://github.com/boraunal/FontAwesome-AdobeExperience-Design-XD)
-*   [Learning the basics of Adobe XD in one hour](https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3)
+*   [Learning the basics of Adobe XD in one hour](https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3)  
+*   [Repeat Grid](https://www.xdguru.com/adobe-xd-guide/repeat-grid/)
 *   [UX & Web Design tutorial: Adobe XD for Beginners](https://www.digitalartsonline.co.uk/tutorials/interactive-design/adobe-xd-for-beginners/)
 *   [Working with Symbols in Adobe XD](https://medium.com/@Jonthanjosh/working-with-symbols-in-adobe-xd-6363a999a1d)
 
