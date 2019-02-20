@@ -3,6 +3,8 @@ title: Schedule
 published: true
 hide_page_title: false
 hide_git_sync_repo_link: false
+anchors:
+    active: true
 ---
 
 ## [:fa-calendar-o:Week 1 (May 8 - 14)](/192/home/week-01)
