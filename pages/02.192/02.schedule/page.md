@@ -3,8 +3,10 @@ title: Schedule
 published: true
 hide_page_title: false
 hide_git_sync_repo_link: false
+frontmatter:
+  process_twig: true
 anchors:
-    active: true
+    'active':  '{{ not (grav.uri.param(''chromeless'') or grav.uri.param(''embedded'')) }}'
 ---
 
 ## [:fa-calendar-o:Week 1 (May 8 - 14)](/192/home/week-01)
