@@ -1,7 +1,6 @@
 ---
 title: Resources
 published: true
-show_sidebar: true
 anchors:
     'active':  '{{ not grav.uri.param(''chromeless'') }}'
 ---
