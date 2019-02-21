@@ -21,6 +21,10 @@ hide_git_sync_repo_link: true
 ### Presented Slides  
 [plugin:page-inject](/192/all-slides/week-06)
 
+### Supplemental Materials  
+Learn Adobe XD in 5 minutes ([Mac](https://www.youtube.com/watch?v=hO9foH5qB1A) | [Windows](https://www.youtube.com/watch?v=53qdI7CPNxM))  
+<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/hO9foH5qB1A" frameborder="0" allowfullscreen></iframe></div>
+
 ### Assignments
 [Visual Re-design](https://canvas.sfu.ca/courses/44038/assignments/347283)  
 
