@@ -1,7 +1,7 @@
 ---
 title: 'Week 8 (Jun 26 - Jul 2)'
 published: false
-date: '27-06-2018 00:00'
+date: '27-06-2019 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---

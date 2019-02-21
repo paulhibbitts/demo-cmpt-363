@@ -1,7 +1,7 @@
 ---
 title: 'Course Welcome'
 published: false
-date: '01-05-2018 00:00'
+date: '01-05-2019 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
