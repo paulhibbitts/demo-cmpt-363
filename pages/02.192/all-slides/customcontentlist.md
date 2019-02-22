@@ -1,7 +1,7 @@
 ---
 title: 'All Slides'
 published: true
-child_type: embedlycard
+child_type: iframe
 visible: false
 content:
     order:
@@ -17,4 +17,3 @@ git_sync_repo_link: 'https://github.com/paulhibbitts/demo-cmpt-363-hub/tree/mast
 git_sync_repo_link_text: 'Propose a Change to these Slides'
 display_content_links: true
 ---
-

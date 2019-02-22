@@ -2,6 +2,7 @@
 title: 'All Web Picks of the Week'
 published: true
 visible: false
+child_type: embedlycard
 content:
     order:
         by: default
