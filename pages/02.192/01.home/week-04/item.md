@@ -2,7 +2,7 @@
 title: 'Week 4 (May 29 - Jun 4)'
 published: true
 date: '29-05-2019 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
