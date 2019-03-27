@@ -6,8 +6,8 @@ course_list_description: 'The Course Hub for CMPT-363 User Interface Design, pla
 hide_from_course_list: false
 course_home: home
 page-inject:
-    processed_content: false
+    processed_content: true
 redirect: '/192/home'
 ---
 
-[plugin:content-inject](/192/home/_class-preparations)
+[plugin:content-inject](/192/home/_important-reminders)
