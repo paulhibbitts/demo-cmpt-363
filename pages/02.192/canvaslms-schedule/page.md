@@ -27,26 +27,27 @@ visible: false
 :fa-book:[plugin:page-inject](/192/all-readings/week-03?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 4 (May 29 - Jun 4)
-**What is the practice of strategic interaction design?**   
+**[What is the practice of strategic interaction design?](https://canvas.sfu.ca/courses/44038/modules/items/1096967)**   
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-04-1?template=partials/iframelinkonly)
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-04-2?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-04?template=partials/embedlycardlinkonly)  
 :fa-users: In-class office hours (tentative)
 
 ## :fa-calendar-o:Week 5 (Jun 5 - 11)
-**How to bridge the gap between the problem space and design space?**   
+**[How to bridge the gap between the problem space and design space?](https://canvas.sfu.ca/courses/44038/modules/items/1096974)**   
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-05?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-05?template=partials/embedlycardlinkonly)  
 
 ## :fa-calendar-o:Week 6 (Jun 12 - 18)
-**What are the essentials of effective visual communication?**   
+**[What are the essentials of effective visual communication?](https://canvas.sfu.ca/courses/44038/modules/items/1096975)**   
 :fa-pencil:[Visual Re-design](https://canvas.sfu.ca/courses/44038/assignments/347283) assignment due Jun 25th  
+:fa-file:[Visual Redesign Adobe XD Template](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Visual%20Redesign%20Adobe%20XD%20Template)  
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-06?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-06?template=partials/embedlycardlinkonly)  
 :fa-users: In-class office hours (tentative)  
 
 ## :fa-calendar-o:Week 7 (Jun 19 - 25)
-**[How to design for mobile and multi-device usage?](https://canvas.sfu.ca/courses/44038/modules/items/1096971)**  
+**How to design for mobile and multi-device usage?**  
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-07?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-07?template=partials/embedlycardlinkonly)  
 
@@ -82,5 +83,4 @@ TBD
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
 
 ## :fa-calendar-o:Week 13 (Jul 31)
-**Course Wrap-up**    
-Guest Speaker [Dr. Parmit Chilana](http://hci.cs.sfu.ca/)  
+**TBD**  

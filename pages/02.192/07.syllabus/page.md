@@ -33,15 +33,15 @@ _Effectively working in a team and both verbal and written communication skills 
 1. How to plan, conduct, and summarize usability tests?
 
 ##### Course Assignments (tentative)
-Individual (50%)
+Individual (55%)
 * Weekly Reading Quizzes: 5%
-* Usability Inspection: 25%
-* Visual Re-design Assignment: 15%
+* Usability Inspection: 22.5%
+* Visual Re-design Assignment: 22.5%
 * Reflective Course Log: 5%
 
-Team (50%)
-* User Research and Usability Testing: 25%
-* Design Mockups and Usability Testing: 25%
+Team (45%)
+* User Research and Usability Testing: 22.5%
+* Design Mockups and Usability Testing: 22.5%
 
 Reading quizzes must be submitted no later than 10:00am class day - no exceptions. Late assignments will not be accepted without valid documentation (e.g. medical certificate).
 

@@ -24,21 +24,22 @@ anchors:
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-03?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-03?template=partials/embedlycardlinkonly)  
 
-## :fa-calendar-o:Week 4 (May 29 - Jun 4)
+## [:fa-calendar-o:Week 4 (May 29 - Jun 4)](/192/home/week-04)
 **What is the practice of strategic interaction design?**   
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-04-1?template=partials/iframelinkonly)
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-04-2?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-04?template=partials/embedlycardlinkonly)  
 :fa-users: In-class office hours (tentative)
 
-## :fa-calendar-o:Week 5 (Jun 5 - 11)
+## [:fa-calendar-o:Week 5 (Jun 5 - 11)](/192/home/week-05)
 **How to bridge the gap between the problem space and design space?**   
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-05?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-05?template=partials/embedlycardlinkonly)  
 
-## :fa-calendar-o:Week 6 (Jun 12 - 18)
+## [:fa-calendar-o:Week 6 (Jun 12 - 18)](/192/home/week-06)
 **What are the essentials of effective visual communication?**   
 :fa-pencil:[Visual Re-design](https://canvas.sfu.ca/courses/44038/assignments/347283) assignment due Jun 25th  
+:fa-file:[Visual Redesign Adobe XD Template](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Visual%20Redesign%20Adobe%20XD%20Template)  
 :fa-desktop:[plugin:page-inject](/192/all-slides/week-06?template=partials/iframelinkonly)
 :fa-book:[plugin:page-inject](/192/all-readings/week-06?template=partials/embedlycardlinkonly)  
 :fa-users: In-class office hours (tentative)  

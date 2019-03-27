@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## How to conduct a user interface inspection?   
-[Cognitive Walkthroughs](/192/presentation/placeholder-slide?target=_blank/placeholder-slide-4)  
-[Conducting Heuristic Evaluations](/192/presentation/placeholder-slide?target=_blank/placeholder-slide-5)  
-[Nielsen’s Heuristics](/192/presentation/placeholder-slide?target=_blank/placeholder-slide-6)  
+[Cognitive Walkthroughs](/192/presentations/placeholder-slide?target=_blank/placeholder-slide-4)  
+[Conducting Heuristic Evaluations](/192/presentations/placeholder-slide?target=_blank/placeholder-slide-5)  
+[Nielsen’s Heuristics](/192/presentations/placeholder-slide?target=_blank/placeholder-slide-6)  
 
 ===
 
@@ -23,7 +23,7 @@ hide_git_sync_repo_link: true
 
 ### Supplemental Materials  
 [Design Heuristics Lecture with Scott Klemmer](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
-<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA" frameborder="0" allowfullscreen></iframe></div>
+[iframe url="https://www.youtube.com/embed/videoseries?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA"]
 
 ### Assignments
 [Usability Inspection](https://canvas.sfu.ca/courses/44038/assignments/347284)   

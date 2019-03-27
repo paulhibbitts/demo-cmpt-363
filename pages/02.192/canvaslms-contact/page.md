@@ -18,8 +18,8 @@ visible: false
     &#112;&#97;&#117;&#108;&#104;&#64;&#115;&#102;&#117;&#46;&#99;&#97;
   </a><br>
   <span style="color:grey"><i class="fa fa-twitter" aria-hidden="true"></i></span> <a href="https://twitter.com/hibbittsdesign">@hibbittsdesign</a><br>
-  <br>In-person office hours:<br>Wednesdays 2:00-3:30pm TASC 1 9409<br><br>
-  Virtual office hours chat:<br>Mondays 12:00-1:30pm<br>Fridays 12:00-1:00pm<br><br>     
+  <br>In-person office hours:<br>Wednesdays 2:00-3:30pm TBD<br><br>
+  Virtual office hours chat:<br>Mondays 12:00-1:30pm<br><br>     
   Teaching Assistant<br><span style="color:grey"><i class="fa fa-envelope" aria-hidden="true"></i></span>TBD<br>
   </div>
 </div>

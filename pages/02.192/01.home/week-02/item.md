@@ -7,9 +7,9 @@ hide_git_sync_repo_link: true
 ---
 
 ## What does a holistic user experience design process look like?
-[Software Development Processes](/192/presentation/placeholder-slide?target=_blank/placeholder-slide-4)  
-[User Experience Design Processes](/192/presentation/placeholder-slide?target=_blank/placeholder-slide-5)  
-[Our Design Process (aka Toolkit)](/192/presentation/placeholder-slide?target=_blank/placeholder-slide-6)
+[Software Development Processes](/192/presentations/placeholder-slide?target=_blank/placeholder-slide-4)  
+[User Experience Design Processes](/192/presentations/placeholder-slide?target=_blank/placeholder-slide-5)  
+[Our Design Process (aka Toolkit)](/192/presentations/placeholder-slide?target=_blank/placeholder-slide-6)
 
 ===
 

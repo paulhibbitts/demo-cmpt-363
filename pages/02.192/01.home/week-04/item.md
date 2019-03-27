@@ -27,7 +27,7 @@ hide_git_sync_repo_link: true
 
 ### Supplemental Materials  
 [Microsoft Research's Bill Buxton on Natural User Interfaces](https://www.youtube.com/watch?v=NcdrfacG_y4)  
-<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/NcdrfacG_y4" frameborder="0" allowfullscreen></iframe></div>
+[plugin:youtube](https://www.youtube.com/watch?v=NcdrfacG_y4)
 
 ### Required Reading  
 [plugin:page-inject](/192/all-readings/week-04)

@@ -1,15 +1,5 @@
 ---
 title: 'Course Overview'
-textsize:
-    scale: '1.125'
-    modifier: 1
-style:
-    header-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
-    block-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
-    justify-content: center
-horizontal: true
-presentation:
-    parser: DecksetParser
 ---
 
 [.header: alignment(center)]  
@@ -357,9 +347,10 @@ A practice reading quiz (not graded) will be available tomorrow on the course hu
 
 # Some Items of Recent Interest...
 
-- Taking Open Source UX to the Next Level
-- Google Material Theming
-- Design Ethics
+- The Four Planets of Design https://automattic.design/2019/03/03/the-four-planets-of-design/ OR John Maeda: “In reality, design is not that important” https://www.fastcompany.com/90320120/john-maeda-in-reality-design-is-not-that-important
+- Maslows Hierarchy and true Human-Centered Design https://www.mindtheproduct.com/2018/11/how-can-we-build-human-centred-products-by-kim-goodwin/
+- A.I. IS YOUR NEW DESIGN MATERIAL https://bigmedium.com/speaking/ai-is-your-new-design-material.html
+
 
 ---
 

@@ -1,15 +1,5 @@
 ---
 title: 'UX Strategy'
-textsize:
-    scale: '1.125'
-    modifier: 1
-style:
-    header-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
-    block-font-family: 'GillSans,''Gill Sans'',''Gill Sans MT'',Arial'
-    justify-content: center
-horizontal: true
-presentation:
-    parser: DecksetParser
 ---
 
 [.header: alignment(center)]

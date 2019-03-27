@@ -2,7 +2,8 @@
 title: 'Week 1 - Introduction to UX Design'
 iframe_title: 'Introduction to UX Design'
 display_iframe_title: true
-iframe_source: '/192/presentation/placeholder-slide'
+display_iframe_title_link: true
+iframe_source: '/192/presentations/placeholder-slide'
 iframe_aspect_ratio: 4by3
 iframe_links:
     -
@@ -12,7 +13,7 @@ iframe_links:
     -
         text: 'Export to PDF'
         icon: fa-download
-        source: '/192/presentation/placeholder-slide?print-pdf=true'
+        source: '/192/presentations/placeholder-slide?print-pdf=true'
 published: true
 cache_enable: false
 visible: true

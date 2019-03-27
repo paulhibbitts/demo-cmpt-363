@@ -1,14 +1,5 @@
 ---
 title: Placeholder Slide
-textsize:
-    scale: '1.125'
-style:
-    header-font-family: 'GillSans,Arial'
-    block-font-family: 'GillSans,Arial'
-    justify-content: center
-horizontal: true
-presentation:
-    parser: DecksetParser
 ---
 
 [.header: alignment(center)]
@@ -25,7 +16,7 @@ presentation:
 
 [.background-color: #FFFFFF]
 
-![fit](http://hibbittsdesign.org/images/ux-toolkit-8-no-numbers.png "Diagram of user experience design process/techniques")
+![fit](https://hibbittsdesign.org/images/ux-toolkit-8-no-numbers.png "Diagram of user experience design process/techniques")
 
 ---
 
