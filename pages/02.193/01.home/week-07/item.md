@@ -1,34 +1,42 @@
 ---
 title: 'Week 7 (Oct 15 - 21)'
-published: false
-date: '20-06-2019 00:00'
+published: true
+date: '15-10-2019 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
-## How to design for mobile and multi-device usage?
-['Mobile' Design Principles](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-mobile-and-multidevice-design.pdf#page=6)  
-[Touch Interaction Design](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-mobile-and-multidevice-design.pdf#page=37)  
-[Responsive Web Design (RWD)](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-mobile-and-multidevice-design.pdf#page=55)  
+## How to bridge the gap between the problem space and design space?
+[Conceptual Models](../../presentations/week-07?target=_blank#/week-07-4)  
+[Designing for Emotion](../../presentations/week-07?target=_blank#/week-07-87)  
+[Accessible and Inclusive Design](../../presentations/week-07?target=_blank#/week-07-100)  
 
 ===
 
-## **How to design for mobile and multi-device usage?**
+## **How to bridge the gap between the problem space and design space?**
 
 ### Summaries and Questions  
-[Jun 19th Class One-minute Summaries](https://canvas.sfu.ca)
+[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-07)
+
+### Weekly Quiz
+[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-07)  
 
 ### Presented Slides  
-[plugin:page-inject](../../weekly-presentations/week-07)
+[presentation="193/presentations/week-07"]
 
 ### Handouts
-[One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Touch%20Interaction%20Checklist)  
-[Responsive Web Design Sketch Sheets](http://jeremypalford.com/wp-content/uploads/2013/07/JPA-Responsive-Web-Design-Sketch-Sheets.zip)  
+[10 Simple Things Writers Can Do To Improve Web Accessibility](http://www.seamlesscms.com/Insights/Content-Accessibility)  
 
 ### Required Reading  
 [plugin:page-inject](../../weekly-readings/week-07)
 
+### Supplemental Materials  
+[Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  
+[plugin:youtube](https://www.youtube.com/watch?v=mAiNdU1go1A)
+
 ### Supplemental Readings  
-[plugin:content-inject](../../ux-techniques-guide/how-to-design-for-mobile-and-multidevice-usage/designing-for-touch)  
-[plugin:content-inject](../../ux-techniques-guide/how-to-design-for-mobile-and-multidevice-usage/mobile-and-multidevice-web-design)  
-[plugin:content-inject](../../ux-techniques-guide/how-to-design-for-mobile-and-multidevice-usage/responsive-web-design)   
+[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/cognitive-psychology)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models)   
+[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/emotional-design)   
+[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design)   

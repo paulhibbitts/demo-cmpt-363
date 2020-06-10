@@ -1,8 +1,8 @@
 ---
-title: 'Week 3 - An Overview of Expert Heuristic Evaluations'
-embedly_card_title: 'An Overview of Expert Heuristic Evaluations'
+title: 'Week 3 - Interaction design: a guide for beginners'
+embedly_card_title: 'Interaction design: a guide for beginners'
 embedly_card_alignment: left
-embedly_card_url: 'https://www.uxmatters.com/mt/archives/2014/06/an-overview-of-expert-heuristic-evaluations.php'
+embedly_card_url: 'https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f'
 published: true
 visible: true
 cache_enable: false

@@ -1,39 +1,41 @@
 ---
 title: 'Week 11 (Nov 12 - 18)'
-published: false
-date: '18-07-2019 00:00'
+published: true
+date: '12-11-2019 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
-## How to plan, conduct, and summarize usability tests?  
-[Testing Methods](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-usability-testing.pdf#page=5)  
-[Conducting Tests](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-usability-testing.pdf#page=31)  
-[Analysis and Reporting](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-usability-testing.pdf#page=101)  
+## What are the essentials of effective visual communication?  
+[Typography](../../presentations/week-11?target=_blank#/week-11-6)  
+[Grouping, Visual Hierarchy and Grids](../../presentations/week-11?target=_blank#/week-11-24)  
+[Visual Design Principles](../../presentations/week-11?target=_blank#/week-11-38)  
 
 ===
 
-## **How to plan, conduct, and summarize usability tests?**
+## **What are the essentials of effective visual communication?**
 
 ### Summaries and Questions  
-[Jul 17th Class One-minute Summaries](https://canvas.sfu.ca)
+[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-11)
+
+### Weekly Quiz
+[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-11)  
 
 ### Presented Slides  
-[plugin:page-inject](../../weekly-presentations/week-05)
+[presentation="193/presentations/week-11"]
 
 ### Assignments
-[Usability Tested Mockups](https://canvas.sfu.ca/courses/44038/assignments/347285)  
-[Informed Consent Materials](https://canvas.sfu.ca/courses/44038/files/folder/Handouts/Informed%20Consent)  
-
-### Supplemental Materials  
-[Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=QckIzHC99Xc)  
-[plugin:youtube](https://www.youtube.com/watch?v=QckIzHC99Xc)
+[Interactive Prototype](https://canvas.sfu.ca/courses/47119/assignments/387246)  
 
 ### Required Reading  
-[plugin:page-inject](../../weekly-readings/week-05)
+[plugin:page-inject](../../weekly-readings/week-11)
 
 ### Supplemental Readings  
-[plugin:page-inject](../../ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal)  
-[plugin:page-inject](../../ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys)  
-[plugin:page-inject](../../ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks)  
-[plugin:page-inject](../../ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-informal)  
+[plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/color)  
+[plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/grids)  
+[plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/hierarchy)  
+[plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/icons)  
+[plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/layout)  
+[plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/typography)  
+[plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/visual-design-principles)  
+[plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/visual-interface-design)  

@@ -1,8 +1,8 @@
 ---
-title: 'Week 4 - A Lean UX Iteration on Dropbox Photos'
-embedly_card_title: 'A Lean UX Iteration on Dropbox Photos'
+title: 'Week 4 - 7 Step Guide to Guerrilla Usability Testing: DIY Usability Testing Method'
+embedly_card_title: '7 Step Guide to Guerrilla Usability Testing: DIY Usability Testing Method'
 embedly_card_alignment: left
-embedly_card_url: 'https://medium.com/bridge-collection/a-lean-ux-iteration-on-dropbox-photos-edfa7b245c27#.fdtsczbnj'
+embedly_card_url: 'https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method'
 published: true
 visible: true
 cache_enable: false

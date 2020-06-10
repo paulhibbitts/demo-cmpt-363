@@ -1,35 +1,46 @@
 ---
 title: 'Week 5 (Oct 1 - 7)'
 published: true
-date: '05-06-2019 00:00'
-hide_from_post_list: true
+date: '01-10-2019 00:00'
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
-## How to bridge the gap between the problem space and design space?
-[Conceptual Models](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-interaction-design.pdf#page=5)  
-[Design for Emotion](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-interaction-design.pdf#page=87)  
-[Accessible and Inclusive Design](https://paulhibbitts.net/cmpt-363-182/pdfs/cmpt-363-182-interaction-design.pdf#page=100)  
+## How to understand and communicate people's needs and behaviours?
+[Needsfinding](../../presentations/week-05?target=_blank#/week-05-8)  
+[User Models](../../presentations/week-05?target=_blank#/week-05-46)  
+[Stories of Usage](../../presentations/week-05?target=_blank#/week-05-67)  
 
 ===
 
-## **How to bridge the gap between the problem space and design space?**
+## **How to understand and communicate people's needs and behaviours?**
 
 ### Summaries and Questions  
-[Jun 5th Class One-minute Summaries](https://canvas.sfu.ca)
+[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-05)
+
+### Weekly Quiz
+[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-05)  
 
 ### Presented Slides  
-[plugin:page-inject](../../weekly-presentations/week-05)
+[presentation="193/presentations/week-05"]
 
-### Handouts
-[10 Simple Things Writers Can Do To Improve Web Accessibility](http://www.seamlesscms.com/Insights/Content-Accessibility)  
+### Assignments
+[User Research Report](https://canvas.sfu.ca/courses/47119/assignments/387247)  
+[Informed Consent Materials](https://canvas.sfu.ca/courses/47119/files/folder/Handouts/Informed%20Consent)  
+
+### Supplemental Materials  
+<div class="grav-youtube"><iframe src="https://player.vimeo.com/video/7099570" width="640" height="352" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
 ### Required Reading  
 [plugin:page-inject](../../weekly-readings/week-05)
 
 ### Supplemental Readings  
-[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility)  
-[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/cognitive-psychology)  
-[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models)   
-[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/emotional-design)   
-[plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design)   
+[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/affinity-diagrams)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/contextual-inquiry)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/empathy-maps)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/interviews)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/job-stories)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/personas-proto)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research)  
+[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research-analysis)  

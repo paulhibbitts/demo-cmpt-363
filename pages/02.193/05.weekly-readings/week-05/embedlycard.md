@@ -1,8 +1,8 @@
 ---
-title: 'Week 5 - We Think Therefore It Is – Conceptual Modelling for Mobile Applications'
-embedly_card_title: 'We Think Therefore It Is – Conceptual Modelling for Mobile Applications'
+title: 'Week 5 - A Five-Step Process For Conducting User Research'
+embedly_card_title: 'A Five-Step Process For Conducting User Research'
 embedly_card_alignment: left
-embedly_card_url: 'https://www.interaction-design.org/literature/article/we-think-therefore-it-is-conceptual-modelling-for-mobile-applications'
+embedly_card_url: 'http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/'
 published: true
 visible: true
 cache_enable: false

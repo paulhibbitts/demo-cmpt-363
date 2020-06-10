@@ -1,10 +1,12 @@
 ---
-title: 'Home in LMS'
+title: 'Home in Canvas LMS'
+published: true
+visible: false
 hide_page_title: false
 show_sidebar: false
 hide_git_sync_repo_link: true
-visible: false
 hide_front_edit_button: true
+cache_enable: false
 page-inject:
     processed_content: true
 ---
@@ -15,7 +17,12 @@ page-inject:
 
 <hr>
 
-##### Paul's Web Pick of the Week
-[plugin:page-inject](/192/all-web-picks-of-the-week/latest)
+##### UX News Pick of the Week
+[plugin:page-inject](/193/ux-news-pick-of-the-week)
 
-[View all of Paul's Web Picks of the Week](https://canvas.sfu.ca/courses/44038/pages/all-web-picks-of-the-week)
+[View UX News](https://canvas.sfu.ca/courses/47119/external_tools/10729)
+
+<hr>
+
+**80's Flashback Friday**  
+[The Stranglers - Always The Sun](https://www.youtube.com/watch?v=cYQTL-ws6p4)

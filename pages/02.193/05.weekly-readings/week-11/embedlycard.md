@@ -1,8 +1,8 @@
 ---
-title: 'Week 11 - The Art of Guerrilla Usability Testing'
-embedly_card_title: 'The Art of Guerrilla Usability Testing'
+title: 'Week 11 - Accessibility for Visual Design'
+embedly_card_title: 'Accessibility for Visual Design'
 embedly_card_alignment: left
-embedly_card_url: 'https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/'
+embedly_card_url: 'http://www.uxbooth.com/articles/accessibility-visual-design/'
 published: true
 visible: true
 cache_enable: false
