@@ -5,7 +5,7 @@ header_image: false
 header_image_file: /202/home/week-03/
 ---
 
-## Online Office Hours this Week!
+## Online Office Hours this Week
 
 [columns]
 
